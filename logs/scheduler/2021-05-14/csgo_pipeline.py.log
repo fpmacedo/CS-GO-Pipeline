@@ -1,0 +1,1360 @@
+[2021-05-14 00:00:24,662] {scheduler_job.py:182} INFO - Started process (PID=14114) to work on /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:00:24,663] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/csgo_pipeline.py for tasks to queue
+[2021-05-14 00:00:24,664] {logging_mixin.py:104} INFO - [2021-05-14 00:00:24,664] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:00:24,690] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['CS_GO_Pipeline']) retrieved from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:00:24,710] {logging_mixin.py:104} INFO - [2021-05-14 00:00:24,710] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-14 00:00:24,725] {logging_mixin.py:104} INFO - [2021-05-14 00:00:24,725] {dag.py:2280} INFO - Setting next_dagrun for CS_GO_Pipeline to 2021-05-13 00:00:00+00:00
+[2021-05-14 00:00:24,737] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/csgo_pipeline.py took 0.077 seconds
+[2021-05-14 00:00:55,332] {scheduler_job.py:182} INFO - Started process (PID=14141) to work on /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:00:55,333] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/csgo_pipeline.py for tasks to queue
+[2021-05-14 00:00:55,333] {logging_mixin.py:104} INFO - [2021-05-14 00:00:55,333] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:00:55,363] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['CS_GO_Pipeline']) retrieved from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:00:55,383] {logging_mixin.py:104} INFO - [2021-05-14 00:00:55,383] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-14 00:00:55,399] {logging_mixin.py:104} INFO - [2021-05-14 00:00:55,399] {dag.py:2280} INFO - Setting next_dagrun for CS_GO_Pipeline to 2021-05-13 00:00:00+00:00
+[2021-05-14 00:00:55,451] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/csgo_pipeline.py took 0.122 seconds
+[2021-05-14 00:01:26,222] {scheduler_job.py:182} INFO - Started process (PID=14168) to work on /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:01:26,224] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/csgo_pipeline.py for tasks to queue
+[2021-05-14 00:01:26,225] {logging_mixin.py:104} INFO - [2021-05-14 00:01:26,224] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:01:26,252] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['CS_GO_Pipeline']) retrieved from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:01:26,269] {logging_mixin.py:104} INFO - [2021-05-14 00:01:26,269] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-14 00:01:26,284] {logging_mixin.py:104} INFO - [2021-05-14 00:01:26,284] {dag.py:2280} INFO - Setting next_dagrun for CS_GO_Pipeline to 2021-05-13 00:00:00+00:00
+[2021-05-14 00:01:26,367] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/csgo_pipeline.py took 0.148 seconds
+[2021-05-14 00:01:57,070] {scheduler_job.py:182} INFO - Started process (PID=14195) to work on /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:01:57,071] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/csgo_pipeline.py for tasks to queue
+[2021-05-14 00:01:57,072] {logging_mixin.py:104} INFO - [2021-05-14 00:01:57,072] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:01:57,097] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['CS_GO_Pipeline']) retrieved from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:01:57,114] {logging_mixin.py:104} INFO - [2021-05-14 00:01:57,114] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-14 00:01:57,137] {logging_mixin.py:104} INFO - [2021-05-14 00:01:57,137] {dag.py:2280} INFO - Setting next_dagrun for CS_GO_Pipeline to 2021-05-13 00:00:00+00:00
+[2021-05-14 00:01:57,150] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/csgo_pipeline.py took 0.083 seconds
+[2021-05-14 00:02:27,940] {scheduler_job.py:182} INFO - Started process (PID=14222) to work on /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:02:27,941] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/csgo_pipeline.py for tasks to queue
+[2021-05-14 00:02:27,942] {logging_mixin.py:104} INFO - [2021-05-14 00:02:27,942] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:02:27,971] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['CS_GO_Pipeline']) retrieved from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:02:27,999] {logging_mixin.py:104} INFO - [2021-05-14 00:02:27,999] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-14 00:02:28,023] {logging_mixin.py:104} INFO - [2021-05-14 00:02:28,023] {dag.py:2280} INFO - Setting next_dagrun for CS_GO_Pipeline to 2021-05-13 00:00:00+00:00
+[2021-05-14 00:02:28,110] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/csgo_pipeline.py took 0.173 seconds
+[2021-05-14 00:02:59,127] {scheduler_job.py:182} INFO - Started process (PID=14250) to work on /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:02:59,128] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/csgo_pipeline.py for tasks to queue
+[2021-05-14 00:02:59,129] {logging_mixin.py:104} INFO - [2021-05-14 00:02:59,129] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:02:59,163] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['CS_GO_Pipeline']) retrieved from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:02:59,179] {logging_mixin.py:104} INFO - [2021-05-14 00:02:59,179] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-14 00:02:59,196] {logging_mixin.py:104} INFO - [2021-05-14 00:02:59,196] {dag.py:2280} INFO - Setting next_dagrun for CS_GO_Pipeline to 2021-05-13 00:00:00+00:00
+[2021-05-14 00:02:59,206] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/csgo_pipeline.py took 0.082 seconds
+[2021-05-14 00:03:29,670] {scheduler_job.py:182} INFO - Started process (PID=14277) to work on /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:03:29,671] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/csgo_pipeline.py for tasks to queue
+[2021-05-14 00:03:29,672] {logging_mixin.py:104} INFO - [2021-05-14 00:03:29,672] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:03:29,701] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['CS_GO_Pipeline']) retrieved from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:03:29,719] {logging_mixin.py:104} INFO - [2021-05-14 00:03:29,719] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-14 00:03:29,735] {logging_mixin.py:104} INFO - [2021-05-14 00:03:29,735] {dag.py:2280} INFO - Setting next_dagrun for CS_GO_Pipeline to 2021-05-13 00:00:00+00:00
+[2021-05-14 00:03:29,829] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/csgo_pipeline.py took 0.162 seconds
+[2021-05-14 00:04:00,353] {scheduler_job.py:182} INFO - Started process (PID=14304) to work on /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:04:00,354] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/csgo_pipeline.py for tasks to queue
+[2021-05-14 00:04:00,355] {logging_mixin.py:104} INFO - [2021-05-14 00:04:00,355] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:04:00,392] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['CS_GO_Pipeline']) retrieved from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:04:00,423] {logging_mixin.py:104} INFO - [2021-05-14 00:04:00,423] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-14 00:04:00,442] {logging_mixin.py:104} INFO - [2021-05-14 00:04:00,442] {dag.py:2280} INFO - Setting next_dagrun for CS_GO_Pipeline to 2021-05-13 00:00:00+00:00
+[2021-05-14 00:04:00,453] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/csgo_pipeline.py took 0.103 seconds
+[2021-05-14 00:04:31,164] {scheduler_job.py:182} INFO - Started process (PID=14331) to work on /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:04:31,166] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/csgo_pipeline.py for tasks to queue
+[2021-05-14 00:04:31,167] {logging_mixin.py:104} INFO - [2021-05-14 00:04:31,167] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:04:31,190] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['CS_GO_Pipeline']) retrieved from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:04:31,209] {logging_mixin.py:104} INFO - [2021-05-14 00:04:31,209] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-14 00:04:31,229] {logging_mixin.py:104} INFO - [2021-05-14 00:04:31,229] {dag.py:2280} INFO - Setting next_dagrun for CS_GO_Pipeline to 2021-05-13 00:00:00+00:00
+[2021-05-14 00:04:31,313] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/csgo_pipeline.py took 0.152 seconds
+[2021-05-14 00:05:01,716] {scheduler_job.py:182} INFO - Started process (PID=14358) to work on /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:05:01,718] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/csgo_pipeline.py for tasks to queue
+[2021-05-14 00:05:01,718] {logging_mixin.py:104} INFO - [2021-05-14 00:05:01,718] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:05:01,743] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['CS_GO_Pipeline']) retrieved from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:05:01,761] {logging_mixin.py:104} INFO - [2021-05-14 00:05:01,761] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-14 00:05:01,784] {logging_mixin.py:104} INFO - [2021-05-14 00:05:01,784] {dag.py:2280} INFO - Setting next_dagrun for CS_GO_Pipeline to 2021-05-13 00:00:00+00:00
+[2021-05-14 00:05:01,856] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/csgo_pipeline.py took 0.143 seconds
+[2021-05-14 00:05:32,564] {scheduler_job.py:182} INFO - Started process (PID=14385) to work on /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:05:32,565] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/csgo_pipeline.py for tasks to queue
+[2021-05-14 00:05:32,566] {logging_mixin.py:104} INFO - [2021-05-14 00:05:32,566] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:05:32,592] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['CS_GO_Pipeline']) retrieved from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:05:32,610] {logging_mixin.py:104} INFO - [2021-05-14 00:05:32,610] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-14 00:05:32,626] {logging_mixin.py:104} INFO - [2021-05-14 00:05:32,626] {dag.py:2280} INFO - Setting next_dagrun for CS_GO_Pipeline to 2021-05-13 00:00:00+00:00
+[2021-05-14 00:05:32,714] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/csgo_pipeline.py took 0.153 seconds
+[2021-05-14 00:06:02,758] {scheduler_job.py:182} INFO - Started process (PID=14411) to work on /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:06:02,760] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/csgo_pipeline.py for tasks to queue
+[2021-05-14 00:06:02,760] {logging_mixin.py:104} INFO - [2021-05-14 00:06:02,760] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:06:02,807] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['CS_GO_Pipeline']) retrieved from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:06:02,839] {logging_mixin.py:104} INFO - [2021-05-14 00:06:02,839] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-14 00:06:02,856] {logging_mixin.py:104} INFO - [2021-05-14 00:06:02,856] {dag.py:2280} INFO - Setting next_dagrun for CS_GO_Pipeline to 2021-05-13 00:00:00+00:00
+[2021-05-14 00:06:02,900] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/csgo_pipeline.py took 0.145 seconds
+[2021-05-14 00:06:32,986] {scheduler_job.py:182} INFO - Started process (PID=14436) to work on /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:06:32,988] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/csgo_pipeline.py for tasks to queue
+[2021-05-14 00:06:32,988] {logging_mixin.py:104} INFO - [2021-05-14 00:06:32,988] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:06:33,014] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['CS_GO_Pipeline']) retrieved from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:06:33,031] {logging_mixin.py:104} INFO - [2021-05-14 00:06:33,031] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-14 00:06:33,047] {logging_mixin.py:104} INFO - [2021-05-14 00:06:33,047] {dag.py:2280} INFO - Setting next_dagrun for CS_GO_Pipeline to 2021-05-13 00:00:00+00:00
+[2021-05-14 00:06:33,142] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/csgo_pipeline.py took 0.159 seconds
+[2021-05-14 00:07:04,338] {scheduler_job.py:182} INFO - Started process (PID=14466) to work on /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:07:04,339] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/csgo_pipeline.py for tasks to queue
+[2021-05-14 00:07:04,340] {logging_mixin.py:104} INFO - [2021-05-14 00:07:04,340] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:07:04,373] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['CS_GO_Pipeline']) retrieved from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:07:04,394] {logging_mixin.py:104} INFO - [2021-05-14 00:07:04,394] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-14 00:07:04,412] {logging_mixin.py:104} INFO - [2021-05-14 00:07:04,412] {dag.py:2280} INFO - Setting next_dagrun for CS_GO_Pipeline to 2021-05-13 00:00:00+00:00
+[2021-05-14 00:07:04,512] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/csgo_pipeline.py took 0.180 seconds
+[2021-05-14 00:07:35,648] {scheduler_job.py:182} INFO - Started process (PID=14495) to work on /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:07:35,649] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/csgo_pipeline.py for tasks to queue
+[2021-05-14 00:07:35,650] {logging_mixin.py:104} INFO - [2021-05-14 00:07:35,650] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:07:35,680] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['CS_GO_Pipeline']) retrieved from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:07:35,708] {logging_mixin.py:104} INFO - [2021-05-14 00:07:35,708] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-14 00:07:35,727] {logging_mixin.py:104} INFO - [2021-05-14 00:07:35,727] {dag.py:2280} INFO - Setting next_dagrun for CS_GO_Pipeline to 2021-05-13 00:00:00+00:00
+[2021-05-14 00:07:35,820] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/csgo_pipeline.py took 0.176 seconds
+[2021-05-14 00:08:05,869] {scheduler_job.py:182} INFO - Started process (PID=14522) to work on /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:08:05,870] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/csgo_pipeline.py for tasks to queue
+[2021-05-14 00:08:05,871] {logging_mixin.py:104} INFO - [2021-05-14 00:08:05,871] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:08:05,896] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['CS_GO_Pipeline']) retrieved from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:08:05,913] {logging_mixin.py:104} INFO - [2021-05-14 00:08:05,913] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-14 00:08:05,929] {logging_mixin.py:104} INFO - [2021-05-14 00:08:05,929] {dag.py:2280} INFO - Setting next_dagrun for CS_GO_Pipeline to 2021-05-13 00:00:00+00:00
+[2021-05-14 00:08:06,032] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/csgo_pipeline.py took 0.166 seconds
+[2021-05-14 00:08:36,168] {scheduler_job.py:182} INFO - Started process (PID=14550) to work on /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:08:36,169] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/csgo_pipeline.py for tasks to queue
+[2021-05-14 00:08:36,170] {logging_mixin.py:104} INFO - [2021-05-14 00:08:36,170] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:08:36,196] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['CS_GO_Pipeline']) retrieved from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:08:36,213] {logging_mixin.py:104} INFO - [2021-05-14 00:08:36,213] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-14 00:08:36,228] {logging_mixin.py:104} INFO - [2021-05-14 00:08:36,228] {dag.py:2280} INFO - Setting next_dagrun for CS_GO_Pipeline to 2021-05-13 00:00:00+00:00
+[2021-05-14 00:08:36,306] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/csgo_pipeline.py took 0.140 seconds
+[2021-05-14 00:09:06,631] {scheduler_job.py:182} INFO - Started process (PID=14576) to work on /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:09:06,632] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/csgo_pipeline.py for tasks to queue
+[2021-05-14 00:09:06,633] {logging_mixin.py:104} INFO - [2021-05-14 00:09:06,633] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:09:06,658] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['CS_GO_Pipeline']) retrieved from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:09:06,675] {logging_mixin.py:104} INFO - [2021-05-14 00:09:06,675] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-14 00:09:06,689] {logging_mixin.py:104} INFO - [2021-05-14 00:09:06,689] {dag.py:2280} INFO - Setting next_dagrun for CS_GO_Pipeline to 2021-05-13 00:00:00+00:00
+[2021-05-14 00:09:06,700] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/csgo_pipeline.py took 0.073 seconds
+[2021-05-14 00:09:37,093] {scheduler_job.py:182} INFO - Started process (PID=14603) to work on /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:09:37,097] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/csgo_pipeline.py for tasks to queue
+[2021-05-14 00:09:37,098] {logging_mixin.py:104} INFO - [2021-05-14 00:09:37,098] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:09:37,122] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['CS_GO_Pipeline']) retrieved from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:09:37,140] {logging_mixin.py:104} INFO - [2021-05-14 00:09:37,140] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-14 00:09:37,155] {logging_mixin.py:104} INFO - [2021-05-14 00:09:37,155] {dag.py:2280} INFO - Setting next_dagrun for CS_GO_Pipeline to 2021-05-13 00:00:00+00:00
+[2021-05-14 00:09:37,177] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/csgo_pipeline.py took 0.087 seconds
+[2021-05-14 00:10:07,490] {scheduler_job.py:182} INFO - Started process (PID=14630) to work on /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:10:07,492] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/csgo_pipeline.py for tasks to queue
+[2021-05-14 00:10:07,493] {logging_mixin.py:104} INFO - [2021-05-14 00:10:07,492] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:10:07,517] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['CS_GO_Pipeline']) retrieved from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:10:07,535] {logging_mixin.py:104} INFO - [2021-05-14 00:10:07,535] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-14 00:10:07,550] {logging_mixin.py:104} INFO - [2021-05-14 00:10:07,550] {dag.py:2280} INFO - Setting next_dagrun for CS_GO_Pipeline to 2021-05-13 00:00:00+00:00
+[2021-05-14 00:10:07,569] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/csgo_pipeline.py took 0.081 seconds
+[2021-05-14 00:10:37,612] {scheduler_job.py:182} INFO - Started process (PID=14655) to work on /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:10:37,613] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/csgo_pipeline.py for tasks to queue
+[2021-05-14 00:10:37,614] {logging_mixin.py:104} INFO - [2021-05-14 00:10:37,613] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:10:37,638] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['CS_GO_Pipeline']) retrieved from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:10:37,657] {logging_mixin.py:104} INFO - [2021-05-14 00:10:37,656] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-14 00:10:37,671] {logging_mixin.py:104} INFO - [2021-05-14 00:10:37,671] {dag.py:2280} INFO - Setting next_dagrun for CS_GO_Pipeline to 2021-05-13 00:00:00+00:00
+[2021-05-14 00:10:37,694] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/csgo_pipeline.py took 0.085 seconds
+[2021-05-14 00:11:08,012] {scheduler_job.py:182} INFO - Started process (PID=14684) to work on /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:11:08,013] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/csgo_pipeline.py for tasks to queue
+[2021-05-14 00:11:08,014] {logging_mixin.py:104} INFO - [2021-05-14 00:11:08,014] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:11:08,038] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['CS_GO_Pipeline']) retrieved from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:11:08,056] {logging_mixin.py:104} INFO - [2021-05-14 00:11:08,056] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-14 00:11:08,072] {logging_mixin.py:104} INFO - [2021-05-14 00:11:08,072] {dag.py:2280} INFO - Setting next_dagrun for CS_GO_Pipeline to 2021-05-13 00:00:00+00:00
+[2021-05-14 00:11:08,081] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/csgo_pipeline.py took 0.072 seconds
+[2021-05-14 00:11:38,141] {scheduler_job.py:182} INFO - Started process (PID=14711) to work on /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:11:38,143] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/csgo_pipeline.py for tasks to queue
+[2021-05-14 00:11:38,144] {logging_mixin.py:104} INFO - [2021-05-14 00:11:38,144] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:11:38,166] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['CS_GO_Pipeline']) retrieved from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:11:38,193] {logging_mixin.py:104} INFO - [2021-05-14 00:11:38,193] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-14 00:11:38,208] {logging_mixin.py:104} INFO - [2021-05-14 00:11:38,208] {dag.py:2280} INFO - Setting next_dagrun for CS_GO_Pipeline to 2021-05-13 00:00:00+00:00
+[2021-05-14 00:11:38,217] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/csgo_pipeline.py took 0.080 seconds
+[2021-05-14 00:12:08,446] {scheduler_job.py:182} INFO - Started process (PID=14738) to work on /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:12:08,447] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/csgo_pipeline.py for tasks to queue
+[2021-05-14 00:12:08,448] {logging_mixin.py:104} INFO - [2021-05-14 00:12:08,448] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:12:08,475] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['CS_GO_Pipeline']) retrieved from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:12:08,493] {logging_mixin.py:104} INFO - [2021-05-14 00:12:08,493] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-14 00:12:08,509] {logging_mixin.py:104} INFO - [2021-05-14 00:12:08,509] {dag.py:2280} INFO - Setting next_dagrun for CS_GO_Pipeline to 2021-05-13 00:00:00+00:00
+[2021-05-14 00:12:08,533] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/csgo_pipeline.py took 0.090 seconds
+[2021-05-14 00:12:38,693] {scheduler_job.py:182} INFO - Started process (PID=14765) to work on /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:12:38,695] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/csgo_pipeline.py for tasks to queue
+[2021-05-14 00:12:38,695] {logging_mixin.py:104} INFO - [2021-05-14 00:12:38,695] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:12:38,727] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['CS_GO_Pipeline']) retrieved from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:12:38,747] {logging_mixin.py:104} INFO - [2021-05-14 00:12:38,746] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-14 00:12:38,767] {logging_mixin.py:104} INFO - [2021-05-14 00:12:38,766] {dag.py:2280} INFO - Setting next_dagrun for CS_GO_Pipeline to 2021-05-13 00:00:00+00:00
+[2021-05-14 00:12:38,794] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/csgo_pipeline.py took 0.103 seconds
+[2021-05-14 00:13:09,196] {scheduler_job.py:182} INFO - Started process (PID=14792) to work on /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:13:09,197] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/csgo_pipeline.py for tasks to queue
+[2021-05-14 00:13:09,198] {logging_mixin.py:104} INFO - [2021-05-14 00:13:09,198] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:13:09,224] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['CS_GO_Pipeline']) retrieved from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:13:09,241] {logging_mixin.py:104} INFO - [2021-05-14 00:13:09,241] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-14 00:13:09,259] {logging_mixin.py:104} INFO - [2021-05-14 00:13:09,259] {dag.py:2280} INFO - Setting next_dagrun for CS_GO_Pipeline to 2021-05-13 00:00:00+00:00
+[2021-05-14 00:13:09,307] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/csgo_pipeline.py took 0.114 seconds
+[2021-05-14 00:13:39,601] {scheduler_job.py:182} INFO - Started process (PID=14819) to work on /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:13:39,602] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/csgo_pipeline.py for tasks to queue
+[2021-05-14 00:13:39,602] {logging_mixin.py:104} INFO - [2021-05-14 00:13:39,602] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:13:39,629] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['CS_GO_Pipeline']) retrieved from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:13:39,646] {logging_mixin.py:104} INFO - [2021-05-14 00:13:39,646] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-14 00:13:39,660] {logging_mixin.py:104} INFO - [2021-05-14 00:13:39,660] {dag.py:2280} INFO - Setting next_dagrun for CS_GO_Pipeline to 2021-05-13 00:00:00+00:00
+[2021-05-14 00:13:39,671] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/csgo_pipeline.py took 0.073 seconds
+[2021-05-14 00:14:10,185] {scheduler_job.py:182} INFO - Started process (PID=14846) to work on /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:14:10,186] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/csgo_pipeline.py for tasks to queue
+[2021-05-14 00:14:10,187] {logging_mixin.py:104} INFO - [2021-05-14 00:14:10,187] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:14:10,213] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['CS_GO_Pipeline']) retrieved from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:14:10,234] {logging_mixin.py:104} INFO - [2021-05-14 00:14:10,234] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-14 00:14:10,252] {logging_mixin.py:104} INFO - [2021-05-14 00:14:10,252] {dag.py:2280} INFO - Setting next_dagrun for CS_GO_Pipeline to 2021-05-13 00:00:00+00:00
+[2021-05-14 00:14:10,281] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/csgo_pipeline.py took 0.098 seconds
+[2021-05-14 00:14:40,664] {scheduler_job.py:182} INFO - Started process (PID=14873) to work on /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:14:40,666] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/csgo_pipeline.py for tasks to queue
+[2021-05-14 00:14:40,667] {logging_mixin.py:104} INFO - [2021-05-14 00:14:40,667] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:14:40,690] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['CS_GO_Pipeline']) retrieved from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:14:40,707] {logging_mixin.py:104} INFO - [2021-05-14 00:14:40,707] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-14 00:14:40,721] {logging_mixin.py:104} INFO - [2021-05-14 00:14:40,721] {dag.py:2280} INFO - Setting next_dagrun for CS_GO_Pipeline to 2021-05-13 00:00:00+00:00
+[2021-05-14 00:14:40,783] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/csgo_pipeline.py took 0.123 seconds
+[2021-05-14 00:15:11,110] {scheduler_job.py:182} INFO - Started process (PID=14900) to work on /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:15:11,111] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/csgo_pipeline.py for tasks to queue
+[2021-05-14 00:15:11,112] {logging_mixin.py:104} INFO - [2021-05-14 00:15:11,112] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:15:11,141] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['CS_GO_Pipeline']) retrieved from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:15:11,176] {logging_mixin.py:104} INFO - [2021-05-14 00:15:11,175] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-14 00:15:11,198] {logging_mixin.py:104} INFO - [2021-05-14 00:15:11,198] {dag.py:2280} INFO - Setting next_dagrun for CS_GO_Pipeline to 2021-05-13 00:00:00+00:00
+[2021-05-14 00:15:11,237] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/csgo_pipeline.py took 0.130 seconds
+[2021-05-14 00:15:41,789] {scheduler_job.py:182} INFO - Started process (PID=14927) to work on /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:15:41,790] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/csgo_pipeline.py for tasks to queue
+[2021-05-14 00:15:41,792] {logging_mixin.py:104} INFO - [2021-05-14 00:15:41,792] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:15:41,816] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['CS_GO_Pipeline']) retrieved from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:15:41,832] {logging_mixin.py:104} INFO - [2021-05-14 00:15:41,832] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-14 00:15:41,855] {logging_mixin.py:104} INFO - [2021-05-14 00:15:41,855] {dag.py:2280} INFO - Setting next_dagrun for CS_GO_Pipeline to 2021-05-13 00:00:00+00:00
+[2021-05-14 00:15:41,882] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/csgo_pipeline.py took 0.096 seconds
+[2021-05-14 00:16:12,340] {scheduler_job.py:182} INFO - Started process (PID=14954) to work on /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:16:12,341] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/csgo_pipeline.py for tasks to queue
+[2021-05-14 00:16:12,342] {logging_mixin.py:104} INFO - [2021-05-14 00:16:12,342] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:16:12,369] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['CS_GO_Pipeline']) retrieved from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:16:12,386] {logging_mixin.py:104} INFO - [2021-05-14 00:16:12,386] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-14 00:16:12,400] {logging_mixin.py:104} INFO - [2021-05-14 00:16:12,400] {dag.py:2280} INFO - Setting next_dagrun for CS_GO_Pipeline to 2021-05-13 00:00:00+00:00
+[2021-05-14 00:16:12,461] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/csgo_pipeline.py took 0.123 seconds
+[2021-05-14 00:16:42,639] {scheduler_job.py:182} INFO - Started process (PID=14981) to work on /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:16:42,641] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/csgo_pipeline.py for tasks to queue
+[2021-05-14 00:16:42,642] {logging_mixin.py:104} INFO - [2021-05-14 00:16:42,642] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:16:42,666] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['CS_GO_Pipeline']) retrieved from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:16:42,682] {logging_mixin.py:104} INFO - [2021-05-14 00:16:42,682] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-14 00:16:42,698] {logging_mixin.py:104} INFO - [2021-05-14 00:16:42,698] {dag.py:2280} INFO - Setting next_dagrun for CS_GO_Pipeline to 2021-05-13 00:00:00+00:00
+[2021-05-14 00:16:42,751] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/csgo_pipeline.py took 0.115 seconds
+[2021-05-14 00:17:13,114] {scheduler_job.py:182} INFO - Started process (PID=15008) to work on /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:17:13,115] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/csgo_pipeline.py for tasks to queue
+[2021-05-14 00:17:13,116] {logging_mixin.py:104} INFO - [2021-05-14 00:17:13,116] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:17:13,140] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['CS_GO_Pipeline']) retrieved from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:17:13,157] {logging_mixin.py:104} INFO - [2021-05-14 00:17:13,157] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-14 00:17:13,173] {logging_mixin.py:104} INFO - [2021-05-14 00:17:13,173] {dag.py:2280} INFO - Setting next_dagrun for CS_GO_Pipeline to 2021-05-13 00:00:00+00:00
+[2021-05-14 00:17:13,232] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/csgo_pipeline.py took 0.121 seconds
+[2021-05-14 00:17:43,742] {scheduler_job.py:182} INFO - Started process (PID=15035) to work on /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:17:43,743] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/csgo_pipeline.py for tasks to queue
+[2021-05-14 00:17:43,744] {logging_mixin.py:104} INFO - [2021-05-14 00:17:43,744] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:17:43,786] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['CS_GO_Pipeline']) retrieved from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:17:43,811] {logging_mixin.py:104} INFO - [2021-05-14 00:17:43,811] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-14 00:17:43,832] {logging_mixin.py:104} INFO - [2021-05-14 00:17:43,832] {dag.py:2280} INFO - Setting next_dagrun for CS_GO_Pipeline to 2021-05-13 00:00:00+00:00
+[2021-05-14 00:17:43,885] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/csgo_pipeline.py took 0.146 seconds
+[2021-05-14 00:18:14,271] {scheduler_job.py:182} INFO - Started process (PID=15062) to work on /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:18:14,272] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/csgo_pipeline.py for tasks to queue
+[2021-05-14 00:18:14,273] {logging_mixin.py:104} INFO - [2021-05-14 00:18:14,273] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:18:14,304] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['CS_GO_Pipeline']) retrieved from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:18:14,335] {logging_mixin.py:104} INFO - [2021-05-14 00:18:14,335] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-14 00:18:14,373] {logging_mixin.py:104} INFO - [2021-05-14 00:18:14,373] {dag.py:2280} INFO - Setting next_dagrun for CS_GO_Pipeline to 2021-05-13 00:00:00+00:00
+[2021-05-14 00:18:14,448] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/csgo_pipeline.py took 0.182 seconds
+[2021-05-14 00:18:45,076] {scheduler_job.py:182} INFO - Started process (PID=15089) to work on /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:18:45,085] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/csgo_pipeline.py for tasks to queue
+[2021-05-14 00:18:45,088] {logging_mixin.py:104} INFO - [2021-05-14 00:18:45,087] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:18:45,116] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['CS_GO_Pipeline']) retrieved from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:18:45,134] {logging_mixin.py:104} INFO - [2021-05-14 00:18:45,134] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-14 00:18:45,154] {logging_mixin.py:104} INFO - [2021-05-14 00:18:45,154] {dag.py:2280} INFO - Setting next_dagrun for CS_GO_Pipeline to 2021-05-13 00:00:00+00:00
+[2021-05-14 00:18:45,177] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/csgo_pipeline.py took 0.116 seconds
+[2021-05-14 00:19:15,789] {scheduler_job.py:182} INFO - Started process (PID=15116) to work on /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:19:15,791] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/csgo_pipeline.py for tasks to queue
+[2021-05-14 00:19:15,791] {logging_mixin.py:104} INFO - [2021-05-14 00:19:15,791] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:19:15,824] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['CS_GO_Pipeline']) retrieved from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:19:15,845] {logging_mixin.py:104} INFO - [2021-05-14 00:19:15,845] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-14 00:19:15,862] {logging_mixin.py:104} INFO - [2021-05-14 00:19:15,861] {dag.py:2280} INFO - Setting next_dagrun for CS_GO_Pipeline to 2021-05-13 00:00:00+00:00
+[2021-05-14 00:19:15,939] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/csgo_pipeline.py took 0.152 seconds
+[2021-05-14 00:19:46,430] {scheduler_job.py:182} INFO - Started process (PID=15143) to work on /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:19:46,432] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/csgo_pipeline.py for tasks to queue
+[2021-05-14 00:19:46,432] {logging_mixin.py:104} INFO - [2021-05-14 00:19:46,432] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:19:46,455] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['CS_GO_Pipeline']) retrieved from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:19:46,472] {logging_mixin.py:104} INFO - [2021-05-14 00:19:46,472] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-14 00:19:46,489] {logging_mixin.py:104} INFO - [2021-05-14 00:19:46,489] {dag.py:2280} INFO - Setting next_dagrun for CS_GO_Pipeline to 2021-05-13 00:00:00+00:00
+[2021-05-14 00:19:46,561] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/csgo_pipeline.py took 0.133 seconds
+[2021-05-14 00:20:17,145] {scheduler_job.py:182} INFO - Started process (PID=15170) to work on /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:20:17,146] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/csgo_pipeline.py for tasks to queue
+[2021-05-14 00:20:17,147] {logging_mixin.py:104} INFO - [2021-05-14 00:20:17,147] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:20:17,172] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['CS_GO_Pipeline']) retrieved from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:20:17,190] {logging_mixin.py:104} INFO - [2021-05-14 00:20:17,190] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-14 00:20:17,206] {logging_mixin.py:104} INFO - [2021-05-14 00:20:17,206] {dag.py:2280} INFO - Setting next_dagrun for CS_GO_Pipeline to 2021-05-13 00:00:00+00:00
+[2021-05-14 00:20:17,289] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/csgo_pipeline.py took 0.147 seconds
+[2021-05-14 00:20:47,776] {scheduler_job.py:182} INFO - Started process (PID=15197) to work on /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:20:47,777] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/csgo_pipeline.py for tasks to queue
+[2021-05-14 00:20:47,784] {logging_mixin.py:104} INFO - [2021-05-14 00:20:47,784] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:20:47,813] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['CS_GO_Pipeline']) retrieved from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:20:47,835] {logging_mixin.py:104} INFO - [2021-05-14 00:20:47,835] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-14 00:20:47,850] {logging_mixin.py:104} INFO - [2021-05-14 00:20:47,850] {dag.py:2280} INFO - Setting next_dagrun for CS_GO_Pipeline to 2021-05-13 00:00:00+00:00
+[2021-05-14 00:20:47,891] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/csgo_pipeline.py took 0.118 seconds
+[2021-05-14 00:21:18,537] {scheduler_job.py:182} INFO - Started process (PID=15224) to work on /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:21:18,538] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/csgo_pipeline.py for tasks to queue
+[2021-05-14 00:21:18,539] {logging_mixin.py:104} INFO - [2021-05-14 00:21:18,538] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:21:18,563] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['CS_GO_Pipeline']) retrieved from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:21:18,580] {logging_mixin.py:104} INFO - [2021-05-14 00:21:18,580] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-14 00:21:18,595] {logging_mixin.py:104} INFO - [2021-05-14 00:21:18,595] {dag.py:2280} INFO - Setting next_dagrun for CS_GO_Pipeline to 2021-05-13 00:00:00+00:00
+[2021-05-14 00:21:18,679] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/csgo_pipeline.py took 0.146 seconds
+[2021-05-14 00:21:49,200] {scheduler_job.py:182} INFO - Started process (PID=15251) to work on /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:21:49,202] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/csgo_pipeline.py for tasks to queue
+[2021-05-14 00:21:49,203] {logging_mixin.py:104} INFO - [2021-05-14 00:21:49,203] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:21:49,228] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['CS_GO_Pipeline']) retrieved from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:21:49,243] {logging_mixin.py:104} INFO - [2021-05-14 00:21:49,243] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-14 00:21:49,258] {logging_mixin.py:104} INFO - [2021-05-14 00:21:49,258] {dag.py:2280} INFO - Setting next_dagrun for CS_GO_Pipeline to 2021-05-13 00:00:00+00:00
+[2021-05-14 00:21:49,342] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/csgo_pipeline.py took 0.145 seconds
+[2021-05-14 00:22:19,998] {scheduler_job.py:182} INFO - Started process (PID=15278) to work on /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:22:20,000] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/csgo_pipeline.py for tasks to queue
+[2021-05-14 00:22:20,000] {logging_mixin.py:104} INFO - [2021-05-14 00:22:20,000] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:22:20,027] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['CS_GO_Pipeline']) retrieved from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:22:20,059] {logging_mixin.py:104} INFO - [2021-05-14 00:22:20,059] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-14 00:22:20,077] {logging_mixin.py:104} INFO - [2021-05-14 00:22:20,077] {dag.py:2280} INFO - Setting next_dagrun for CS_GO_Pipeline to 2021-05-13 00:00:00+00:00
+[2021-05-14 00:22:20,088] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/csgo_pipeline.py took 0.092 seconds
+[2021-05-14 00:22:50,810] {scheduler_job.py:182} INFO - Started process (PID=15305) to work on /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:22:50,811] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/csgo_pipeline.py for tasks to queue
+[2021-05-14 00:22:50,812] {logging_mixin.py:104} INFO - [2021-05-14 00:22:50,812] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:22:50,840] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['CS_GO_Pipeline']) retrieved from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:22:50,857] {logging_mixin.py:104} INFO - [2021-05-14 00:22:50,857] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-14 00:22:50,874] {logging_mixin.py:104} INFO - [2021-05-14 00:22:50,874] {dag.py:2280} INFO - Setting next_dagrun for CS_GO_Pipeline to 2021-05-13 00:00:00+00:00
+[2021-05-14 00:22:50,963] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/csgo_pipeline.py took 0.156 seconds
+[2021-05-14 00:23:21,334] {scheduler_job.py:182} INFO - Started process (PID=15332) to work on /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:23:21,335] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/csgo_pipeline.py for tasks to queue
+[2021-05-14 00:23:21,335] {logging_mixin.py:104} INFO - [2021-05-14 00:23:21,335] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:23:21,361] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['CS_GO_Pipeline']) retrieved from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:23:21,378] {logging_mixin.py:104} INFO - [2021-05-14 00:23:21,378] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-14 00:23:21,394] {logging_mixin.py:104} INFO - [2021-05-14 00:23:21,394] {dag.py:2280} INFO - Setting next_dagrun for CS_GO_Pipeline to 2021-05-13 00:00:00+00:00
+[2021-05-14 00:23:21,462] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/csgo_pipeline.py took 0.131 seconds
+[2021-05-14 00:23:51,846] {scheduler_job.py:182} INFO - Started process (PID=15359) to work on /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:23:51,847] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/csgo_pipeline.py for tasks to queue
+[2021-05-14 00:23:51,848] {logging_mixin.py:104} INFO - [2021-05-14 00:23:51,848] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:23:51,879] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['CS_GO_Pipeline']) retrieved from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:23:51,899] {logging_mixin.py:104} INFO - [2021-05-14 00:23:51,899] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-14 00:23:51,915] {logging_mixin.py:104} INFO - [2021-05-14 00:23:51,915] {dag.py:2280} INFO - Setting next_dagrun for CS_GO_Pipeline to 2021-05-13 00:00:00+00:00
+[2021-05-14 00:23:51,997] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/csgo_pipeline.py took 0.154 seconds
+[2021-05-14 00:24:22,811] {scheduler_job.py:182} INFO - Started process (PID=15386) to work on /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:24:22,812] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/csgo_pipeline.py for tasks to queue
+[2021-05-14 00:24:22,813] {logging_mixin.py:104} INFO - [2021-05-14 00:24:22,813] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:24:22,850] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['CS_GO_Pipeline']) retrieved from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:24:22,873] {logging_mixin.py:104} INFO - [2021-05-14 00:24:22,873] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-14 00:24:22,889] {logging_mixin.py:104} INFO - [2021-05-14 00:24:22,889] {dag.py:2280} INFO - Setting next_dagrun for CS_GO_Pipeline to 2021-05-13 00:00:00+00:00
+[2021-05-14 00:24:22,979] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/csgo_pipeline.py took 0.170 seconds
+[2021-05-14 00:24:53,653] {scheduler_job.py:182} INFO - Started process (PID=15413) to work on /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:24:53,654] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/csgo_pipeline.py for tasks to queue
+[2021-05-14 00:24:53,655] {logging_mixin.py:104} INFO - [2021-05-14 00:24:53,655] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:24:53,677] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['CS_GO_Pipeline']) retrieved from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:24:53,695] {logging_mixin.py:104} INFO - [2021-05-14 00:24:53,695] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-14 00:24:53,711] {logging_mixin.py:104} INFO - [2021-05-14 00:24:53,711] {dag.py:2280} INFO - Setting next_dagrun for CS_GO_Pipeline to 2021-05-13 00:00:00+00:00
+[2021-05-14 00:24:53,798] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/csgo_pipeline.py took 0.148 seconds
+[2021-05-14 00:25:23,942] {scheduler_job.py:182} INFO - Started process (PID=15440) to work on /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:25:23,943] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/csgo_pipeline.py for tasks to queue
+[2021-05-14 00:25:23,944] {logging_mixin.py:104} INFO - [2021-05-14 00:25:23,944] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:25:23,987] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['CS_GO_Pipeline']) retrieved from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:25:24,010] {logging_mixin.py:104} INFO - [2021-05-14 00:25:24,010] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-14 00:25:24,036] {logging_mixin.py:104} INFO - [2021-05-14 00:25:24,036] {dag.py:2280} INFO - Setting next_dagrun for CS_GO_Pipeline to 2021-05-13 00:00:00+00:00
+[2021-05-14 00:25:24,051] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/csgo_pipeline.py took 0.112 seconds
+[2021-05-14 00:25:54,091] {scheduler_job.py:182} INFO - Started process (PID=15465) to work on /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:25:54,092] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/csgo_pipeline.py for tasks to queue
+[2021-05-14 00:25:54,093] {logging_mixin.py:104} INFO - [2021-05-14 00:25:54,092] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:25:54,121] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['CS_GO_Pipeline']) retrieved from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:25:54,142] {logging_mixin.py:104} INFO - [2021-05-14 00:25:54,141] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-14 00:25:54,159] {logging_mixin.py:104} INFO - [2021-05-14 00:25:54,159] {dag.py:2280} INFO - Setting next_dagrun for CS_GO_Pipeline to 2021-05-13 00:00:00+00:00
+[2021-05-14 00:25:54,246] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/csgo_pipeline.py took 0.158 seconds
+[2021-05-14 00:26:24,845] {scheduler_job.py:182} INFO - Started process (PID=15492) to work on /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:26:24,846] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/csgo_pipeline.py for tasks to queue
+[2021-05-14 00:26:24,847] {logging_mixin.py:104} INFO - [2021-05-14 00:26:24,847] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:26:24,873] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['CS_GO_Pipeline']) retrieved from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:26:24,890] {logging_mixin.py:104} INFO - [2021-05-14 00:26:24,890] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-14 00:26:24,907] {logging_mixin.py:104} INFO - [2021-05-14 00:26:24,906] {dag.py:2280} INFO - Setting next_dagrun for CS_GO_Pipeline to 2021-05-13 00:00:00+00:00
+[2021-05-14 00:26:25,008] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/csgo_pipeline.py took 0.167 seconds
+[2021-05-14 00:26:55,725] {scheduler_job.py:182} INFO - Started process (PID=15519) to work on /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:26:55,726] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/csgo_pipeline.py for tasks to queue
+[2021-05-14 00:26:55,727] {logging_mixin.py:104} INFO - [2021-05-14 00:26:55,727] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:26:55,754] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['CS_GO_Pipeline']) retrieved from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:26:55,772] {logging_mixin.py:104} INFO - [2021-05-14 00:26:55,772] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-14 00:26:55,787] {logging_mixin.py:104} INFO - [2021-05-14 00:26:55,786] {dag.py:2280} INFO - Setting next_dagrun for CS_GO_Pipeline to 2021-05-13 00:00:00+00:00
+[2021-05-14 00:26:55,887] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/csgo_pipeline.py took 0.165 seconds
+[2021-05-14 00:27:26,485] {scheduler_job.py:182} INFO - Started process (PID=15546) to work on /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:27:26,486] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/csgo_pipeline.py for tasks to queue
+[2021-05-14 00:27:26,487] {logging_mixin.py:104} INFO - [2021-05-14 00:27:26,487] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:27:26,513] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['CS_GO_Pipeline']) retrieved from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:27:26,530] {logging_mixin.py:104} INFO - [2021-05-14 00:27:26,530] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-14 00:27:26,545] {logging_mixin.py:104} INFO - [2021-05-14 00:27:26,545] {dag.py:2280} INFO - Setting next_dagrun for CS_GO_Pipeline to 2021-05-13 00:00:00+00:00
+[2021-05-14 00:27:26,642] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/csgo_pipeline.py took 0.160 seconds
+[2021-05-14 00:27:57,198] {scheduler_job.py:182} INFO - Started process (PID=15573) to work on /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:27:57,199] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/csgo_pipeline.py for tasks to queue
+[2021-05-14 00:27:57,199] {logging_mixin.py:104} INFO - [2021-05-14 00:27:57,199] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:27:57,224] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['CS_GO_Pipeline']) retrieved from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:27:57,241] {logging_mixin.py:104} INFO - [2021-05-14 00:27:57,241] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-14 00:27:57,256] {logging_mixin.py:104} INFO - [2021-05-14 00:27:57,256] {dag.py:2280} INFO - Setting next_dagrun for CS_GO_Pipeline to 2021-05-13 00:00:00+00:00
+[2021-05-14 00:27:57,362] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/csgo_pipeline.py took 0.168 seconds
+[2021-05-14 00:28:27,830] {scheduler_job.py:182} INFO - Started process (PID=15600) to work on /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:28:27,831] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/csgo_pipeline.py for tasks to queue
+[2021-05-14 00:28:27,832] {logging_mixin.py:104} INFO - [2021-05-14 00:28:27,832] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:28:27,862] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['CS_GO_Pipeline']) retrieved from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:28:27,878] {logging_mixin.py:104} INFO - [2021-05-14 00:28:27,878] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-14 00:28:27,893] {logging_mixin.py:104} INFO - [2021-05-14 00:28:27,893] {dag.py:2280} INFO - Setting next_dagrun for CS_GO_Pipeline to 2021-05-13 00:00:00+00:00
+[2021-05-14 00:28:28,004] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/csgo_pipeline.py took 0.177 seconds
+[2021-05-14 00:28:58,804] {scheduler_job.py:182} INFO - Started process (PID=15627) to work on /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:28:58,806] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/csgo_pipeline.py for tasks to queue
+[2021-05-14 00:28:58,807] {logging_mixin.py:104} INFO - [2021-05-14 00:28:58,807] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:28:58,834] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['CS_GO_Pipeline']) retrieved from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:28:58,852] {logging_mixin.py:104} INFO - [2021-05-14 00:28:58,851] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-14 00:28:58,867] {logging_mixin.py:104} INFO - [2021-05-14 00:28:58,867] {dag.py:2280} INFO - Setting next_dagrun for CS_GO_Pipeline to 2021-05-13 00:00:00+00:00
+[2021-05-14 00:28:58,975] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/csgo_pipeline.py took 0.174 seconds
+[2021-05-14 00:29:29,601] {scheduler_job.py:182} INFO - Started process (PID=15654) to work on /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:29:29,603] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/csgo_pipeline.py for tasks to queue
+[2021-05-14 00:29:29,603] {logging_mixin.py:104} INFO - [2021-05-14 00:29:29,603] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:29:29,628] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['CS_GO_Pipeline']) retrieved from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:29:29,646] {logging_mixin.py:104} INFO - [2021-05-14 00:29:29,646] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-14 00:29:29,661] {logging_mixin.py:104} INFO - [2021-05-14 00:29:29,661] {dag.py:2280} INFO - Setting next_dagrun for CS_GO_Pipeline to 2021-05-13 00:00:00+00:00
+[2021-05-14 00:29:29,682] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/csgo_pipeline.py took 0.084 seconds
+[2021-05-14 00:29:59,768] {scheduler_job.py:182} INFO - Started process (PID=15681) to work on /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:29:59,770] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/csgo_pipeline.py for tasks to queue
+[2021-05-14 00:29:59,771] {logging_mixin.py:104} INFO - [2021-05-14 00:29:59,770] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:29:59,799] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['CS_GO_Pipeline']) retrieved from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:29:59,818] {logging_mixin.py:104} INFO - [2021-05-14 00:29:59,818] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-14 00:29:59,835] {logging_mixin.py:104} INFO - [2021-05-14 00:29:59,835] {dag.py:2280} INFO - Setting next_dagrun for CS_GO_Pipeline to 2021-05-13 00:00:00+00:00
+[2021-05-14 00:29:59,846] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/csgo_pipeline.py took 0.081 seconds
+[2021-05-14 00:30:30,177] {scheduler_job.py:182} INFO - Started process (PID=15710) to work on /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:30:30,178] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/csgo_pipeline.py for tasks to queue
+[2021-05-14 00:30:30,179] {logging_mixin.py:104} INFO - [2021-05-14 00:30:30,179] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:30:30,202] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['CS_GO_Pipeline']) retrieved from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:30:30,220] {logging_mixin.py:104} INFO - [2021-05-14 00:30:30,219] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-14 00:30:30,235] {logging_mixin.py:104} INFO - [2021-05-14 00:30:30,235] {dag.py:2280} INFO - Setting next_dagrun for CS_GO_Pipeline to 2021-05-13 00:00:00+00:00
+[2021-05-14 00:30:30,253] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/csgo_pipeline.py took 0.080 seconds
+[2021-05-14 00:31:00,450] {scheduler_job.py:182} INFO - Started process (PID=15737) to work on /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:31:00,451] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/csgo_pipeline.py for tasks to queue
+[2021-05-14 00:31:00,452] {logging_mixin.py:104} INFO - [2021-05-14 00:31:00,452] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:31:00,478] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['CS_GO_Pipeline']) retrieved from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:31:00,497] {logging_mixin.py:104} INFO - [2021-05-14 00:31:00,497] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-14 00:31:00,512] {logging_mixin.py:104} INFO - [2021-05-14 00:31:00,512] {dag.py:2280} INFO - Setting next_dagrun for CS_GO_Pipeline to 2021-05-13 00:00:00+00:00
+[2021-05-14 00:31:00,522] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/csgo_pipeline.py took 0.075 seconds
+[2021-05-14 00:31:30,635] {scheduler_job.py:182} INFO - Started process (PID=15763) to work on /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:31:30,636] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/csgo_pipeline.py for tasks to queue
+[2021-05-14 00:31:30,637] {logging_mixin.py:104} INFO - [2021-05-14 00:31:30,637] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:31:30,678] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['CS_GO_Pipeline']) retrieved from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:31:30,721] {logging_mixin.py:104} INFO - [2021-05-14 00:31:30,721] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-14 00:31:30,760] {logging_mixin.py:104} INFO - [2021-05-14 00:31:30,760] {dag.py:2280} INFO - Setting next_dagrun for CS_GO_Pipeline to 2021-05-13 00:00:00+00:00
+[2021-05-14 00:31:30,781] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/csgo_pipeline.py took 0.149 seconds
+[2021-05-14 00:32:00,856] {scheduler_job.py:182} INFO - Started process (PID=15786) to work on /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:32:00,858] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/csgo_pipeline.py for tasks to queue
+[2021-05-14 00:32:00,861] {logging_mixin.py:104} INFO - [2021-05-14 00:32:00,861] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:32:00,890] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['CS_GO_Pipeline']) retrieved from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:32:00,909] {logging_mixin.py:104} INFO - [2021-05-14 00:32:00,909] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-14 00:32:00,925] {logging_mixin.py:104} INFO - [2021-05-14 00:32:00,925] {dag.py:2280} INFO - Setting next_dagrun for CS_GO_Pipeline to 2021-05-13 00:00:00+00:00
+[2021-05-14 00:32:00,936] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/csgo_pipeline.py took 0.082 seconds
+[2021-05-14 00:32:31,157] {scheduler_job.py:182} INFO - Started process (PID=15812) to work on /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:32:31,158] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/csgo_pipeline.py for tasks to queue
+[2021-05-14 00:32:31,159] {logging_mixin.py:104} INFO - [2021-05-14 00:32:31,159] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:32:31,183] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['CS_GO_Pipeline']) retrieved from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:32:31,200] {logging_mixin.py:104} INFO - [2021-05-14 00:32:31,199] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-14 00:32:31,215] {logging_mixin.py:104} INFO - [2021-05-14 00:32:31,215] {dag.py:2280} INFO - Setting next_dagrun for CS_GO_Pipeline to 2021-05-13 00:00:00+00:00
+[2021-05-14 00:32:31,254] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/csgo_pipeline.py took 0.100 seconds
+[2021-05-14 00:33:01,377] {scheduler_job.py:182} INFO - Started process (PID=15839) to work on /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:33:01,378] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/csgo_pipeline.py for tasks to queue
+[2021-05-14 00:33:01,379] {logging_mixin.py:104} INFO - [2021-05-14 00:33:01,379] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:33:01,407] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['CS_GO_Pipeline']) retrieved from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:33:01,427] {logging_mixin.py:104} INFO - [2021-05-14 00:33:01,427] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-14 00:33:01,445] {logging_mixin.py:104} INFO - [2021-05-14 00:33:01,445] {dag.py:2280} INFO - Setting next_dagrun for CS_GO_Pipeline to 2021-05-13 00:00:00+00:00
+[2021-05-14 00:33:01,492] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/csgo_pipeline.py took 0.118 seconds
+[2021-05-14 00:33:31,825] {scheduler_job.py:182} INFO - Started process (PID=15867) to work on /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:33:31,827] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/csgo_pipeline.py for tasks to queue
+[2021-05-14 00:33:31,827] {logging_mixin.py:104} INFO - [2021-05-14 00:33:31,827] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:33:31,852] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['CS_GO_Pipeline']) retrieved from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:33:31,869] {logging_mixin.py:104} INFO - [2021-05-14 00:33:31,869] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-14 00:33:31,885] {logging_mixin.py:104} INFO - [2021-05-14 00:33:31,885] {dag.py:2280} INFO - Setting next_dagrun for CS_GO_Pipeline to 2021-05-13 00:00:00+00:00
+[2021-05-14 00:33:31,927] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/csgo_pipeline.py took 0.105 seconds
+[2021-05-14 00:34:02,102] {scheduler_job.py:182} INFO - Started process (PID=15893) to work on /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:34:02,103] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/csgo_pipeline.py for tasks to queue
+[2021-05-14 00:34:02,104] {logging_mixin.py:104} INFO - [2021-05-14 00:34:02,104] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:34:02,131] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['CS_GO_Pipeline']) retrieved from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:34:02,150] {logging_mixin.py:104} INFO - [2021-05-14 00:34:02,150] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-14 00:34:02,167] {logging_mixin.py:104} INFO - [2021-05-14 00:34:02,167] {dag.py:2280} INFO - Setting next_dagrun for CS_GO_Pipeline to 2021-05-13 00:00:00+00:00
+[2021-05-14 00:34:02,196] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/csgo_pipeline.py took 0.097 seconds
+[2021-05-14 00:34:32,588] {scheduler_job.py:182} INFO - Started process (PID=15921) to work on /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:34:32,589] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/csgo_pipeline.py for tasks to queue
+[2021-05-14 00:34:32,589] {logging_mixin.py:104} INFO - [2021-05-14 00:34:32,589] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:34:32,614] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['CS_GO_Pipeline']) retrieved from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:34:32,631] {logging_mixin.py:104} INFO - [2021-05-14 00:34:32,631] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-14 00:34:32,645] {logging_mixin.py:104} INFO - [2021-05-14 00:34:32,645] {dag.py:2280} INFO - Setting next_dagrun for CS_GO_Pipeline to 2021-05-13 00:00:00+00:00
+[2021-05-14 00:34:32,692] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/csgo_pipeline.py took 0.107 seconds
+[2021-05-14 00:35:02,975] {scheduler_job.py:182} INFO - Started process (PID=15948) to work on /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:35:02,977] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/csgo_pipeline.py for tasks to queue
+[2021-05-14 00:35:02,977] {logging_mixin.py:104} INFO - [2021-05-14 00:35:02,977] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:35:03,003] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['CS_GO_Pipeline']) retrieved from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:35:03,021] {logging_mixin.py:104} INFO - [2021-05-14 00:35:03,021] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-14 00:35:03,036] {logging_mixin.py:104} INFO - [2021-05-14 00:35:03,036] {dag.py:2280} INFO - Setting next_dagrun for CS_GO_Pipeline to 2021-05-13 00:00:00+00:00
+[2021-05-14 00:35:03,084] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/csgo_pipeline.py took 0.111 seconds
+[2021-05-14 00:35:33,413] {scheduler_job.py:182} INFO - Started process (PID=15975) to work on /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:35:33,414] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/csgo_pipeline.py for tasks to queue
+[2021-05-14 00:35:33,415] {logging_mixin.py:104} INFO - [2021-05-14 00:35:33,415] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:35:33,442] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['CS_GO_Pipeline']) retrieved from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:35:33,460] {logging_mixin.py:104} INFO - [2021-05-14 00:35:33,460] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-14 00:35:33,474] {logging_mixin.py:104} INFO - [2021-05-14 00:35:33,474] {dag.py:2280} INFO - Setting next_dagrun for CS_GO_Pipeline to 2021-05-13 00:00:00+00:00
+[2021-05-14 00:35:33,484] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/csgo_pipeline.py took 0.074 seconds
+[2021-05-14 00:36:03,730] {scheduler_job.py:182} INFO - Started process (PID=16002) to work on /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:36:03,732] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/csgo_pipeline.py for tasks to queue
+[2021-05-14 00:36:03,732] {logging_mixin.py:104} INFO - [2021-05-14 00:36:03,732] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:36:03,759] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['CS_GO_Pipeline']) retrieved from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:36:03,778] {logging_mixin.py:104} INFO - [2021-05-14 00:36:03,777] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-14 00:36:03,792] {logging_mixin.py:104} INFO - [2021-05-14 00:36:03,792] {dag.py:2280} INFO - Setting next_dagrun for CS_GO_Pipeline to 2021-05-13 00:00:00+00:00
+[2021-05-14 00:36:03,836] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/csgo_pipeline.py took 0.110 seconds
+[2021-05-14 00:36:34,015] {scheduler_job.py:182} INFO - Started process (PID=16029) to work on /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:36:34,017] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/csgo_pipeline.py for tasks to queue
+[2021-05-14 00:36:34,018] {logging_mixin.py:104} INFO - [2021-05-14 00:36:34,018] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:36:34,048] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['CS_GO_Pipeline']) retrieved from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:36:34,065] {logging_mixin.py:104} INFO - [2021-05-14 00:36:34,065] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-14 00:36:34,079] {logging_mixin.py:104} INFO - [2021-05-14 00:36:34,079] {dag.py:2280} INFO - Setting next_dagrun for CS_GO_Pipeline to 2021-05-13 00:00:00+00:00
+[2021-05-14 00:36:34,122] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/csgo_pipeline.py took 0.112 seconds
+[2021-05-14 00:37:04,271] {scheduler_job.py:182} INFO - Started process (PID=16056) to work on /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:37:04,273] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/csgo_pipeline.py for tasks to queue
+[2021-05-14 00:37:04,273] {logging_mixin.py:104} INFO - [2021-05-14 00:37:04,273] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:37:04,301] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['CS_GO_Pipeline']) retrieved from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:37:04,319] {logging_mixin.py:104} INFO - [2021-05-14 00:37:04,319] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-14 00:37:04,334] {logging_mixin.py:104} INFO - [2021-05-14 00:37:04,334] {dag.py:2280} INFO - Setting next_dagrun for CS_GO_Pipeline to 2021-05-13 00:00:00+00:00
+[2021-05-14 00:37:04,385] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/csgo_pipeline.py took 0.117 seconds
+[2021-05-14 00:37:34,749] {scheduler_job.py:182} INFO - Started process (PID=16083) to work on /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:37:34,750] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/csgo_pipeline.py for tasks to queue
+[2021-05-14 00:37:34,751] {logging_mixin.py:104} INFO - [2021-05-14 00:37:34,751] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:37:34,791] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['CS_GO_Pipeline']) retrieved from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:37:34,812] {logging_mixin.py:104} INFO - [2021-05-14 00:37:34,811] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-14 00:37:34,830] {logging_mixin.py:104} INFO - [2021-05-14 00:37:34,830] {dag.py:2280} INFO - Setting next_dagrun for CS_GO_Pipeline to 2021-05-13 00:00:00+00:00
+[2021-05-14 00:37:34,885] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/csgo_pipeline.py took 0.140 seconds
+[2021-05-14 00:38:05,348] {scheduler_job.py:182} INFO - Started process (PID=16110) to work on /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:38:05,350] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/csgo_pipeline.py for tasks to queue
+[2021-05-14 00:38:05,351] {logging_mixin.py:104} INFO - [2021-05-14 00:38:05,351] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:38:05,381] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['CS_GO_Pipeline']) retrieved from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:38:05,399] {logging_mixin.py:104} INFO - [2021-05-14 00:38:05,399] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-14 00:38:05,419] {logging_mixin.py:104} INFO - [2021-05-14 00:38:05,419] {dag.py:2280} INFO - Setting next_dagrun for CS_GO_Pipeline to 2021-05-13 00:00:00+00:00
+[2021-05-14 00:38:05,438] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/csgo_pipeline.py took 0.093 seconds
+[2021-05-14 00:38:35,823] {scheduler_job.py:182} INFO - Started process (PID=16137) to work on /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:38:35,825] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/csgo_pipeline.py for tasks to queue
+[2021-05-14 00:38:35,825] {logging_mixin.py:104} INFO - [2021-05-14 00:38:35,825] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:38:35,855] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['CS_GO_Pipeline']) retrieved from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:38:35,874] {logging_mixin.py:104} INFO - [2021-05-14 00:38:35,874] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-14 00:38:35,892] {logging_mixin.py:104} INFO - [2021-05-14 00:38:35,892] {dag.py:2280} INFO - Setting next_dagrun for CS_GO_Pipeline to 2021-05-13 00:00:00+00:00
+[2021-05-14 00:38:35,951] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/csgo_pipeline.py took 0.131 seconds
+[2021-05-14 00:39:06,631] {scheduler_job.py:182} INFO - Started process (PID=16164) to work on /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:39:06,632] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/csgo_pipeline.py for tasks to queue
+[2021-05-14 00:39:06,633] {logging_mixin.py:104} INFO - [2021-05-14 00:39:06,633] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:39:06,660] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['CS_GO_Pipeline']) retrieved from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:39:06,679] {logging_mixin.py:104} INFO - [2021-05-14 00:39:06,679] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-14 00:39:06,696] {logging_mixin.py:104} INFO - [2021-05-14 00:39:06,696] {dag.py:2280} INFO - Setting next_dagrun for CS_GO_Pipeline to 2021-05-13 00:00:00+00:00
+[2021-05-14 00:39:06,757] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/csgo_pipeline.py took 0.130 seconds
+[2021-05-14 00:39:37,031] {scheduler_job.py:182} INFO - Started process (PID=16191) to work on /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:39:37,032] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/csgo_pipeline.py for tasks to queue
+[2021-05-14 00:39:37,033] {logging_mixin.py:104} INFO - [2021-05-14 00:39:37,033] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:39:37,058] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['CS_GO_Pipeline']) retrieved from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:39:37,075] {logging_mixin.py:104} INFO - [2021-05-14 00:39:37,075] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-14 00:39:37,090] {logging_mixin.py:104} INFO - [2021-05-14 00:39:37,090] {dag.py:2280} INFO - Setting next_dagrun for CS_GO_Pipeline to 2021-05-13 00:00:00+00:00
+[2021-05-14 00:39:37,157] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/csgo_pipeline.py took 0.129 seconds
+[2021-05-14 00:40:07,704] {scheduler_job.py:182} INFO - Started process (PID=16218) to work on /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:40:07,706] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/csgo_pipeline.py for tasks to queue
+[2021-05-14 00:40:07,707] {logging_mixin.py:104} INFO - [2021-05-14 00:40:07,707] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:40:07,732] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['CS_GO_Pipeline']) retrieved from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:40:07,750] {logging_mixin.py:104} INFO - [2021-05-14 00:40:07,749] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-14 00:40:07,766] {logging_mixin.py:104} INFO - [2021-05-14 00:40:07,766] {dag.py:2280} INFO - Setting next_dagrun for CS_GO_Pipeline to 2021-05-13 00:00:00+00:00
+[2021-05-14 00:40:07,829] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/csgo_pipeline.py took 0.132 seconds
+[2021-05-14 00:40:38,192] {scheduler_job.py:182} INFO - Started process (PID=16245) to work on /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:40:38,193] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/csgo_pipeline.py for tasks to queue
+[2021-05-14 00:40:38,194] {logging_mixin.py:104} INFO - [2021-05-14 00:40:38,194] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:40:38,224] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['CS_GO_Pipeline']) retrieved from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:40:38,242] {logging_mixin.py:104} INFO - [2021-05-14 00:40:38,242] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-14 00:40:38,258] {logging_mixin.py:104} INFO - [2021-05-14 00:40:38,258] {dag.py:2280} INFO - Setting next_dagrun for CS_GO_Pipeline to 2021-05-13 00:00:00+00:00
+[2021-05-14 00:40:38,331] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/csgo_pipeline.py took 0.143 seconds
+[2021-05-14 00:41:09,086] {scheduler_job.py:182} INFO - Started process (PID=16272) to work on /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:41:09,087] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/csgo_pipeline.py for tasks to queue
+[2021-05-14 00:41:09,088] {logging_mixin.py:104} INFO - [2021-05-14 00:41:09,088] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:41:09,116] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['CS_GO_Pipeline']) retrieved from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:41:09,142] {logging_mixin.py:104} INFO - [2021-05-14 00:41:09,142] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-14 00:41:09,157] {logging_mixin.py:104} INFO - [2021-05-14 00:41:09,157] {dag.py:2280} INFO - Setting next_dagrun for CS_GO_Pipeline to 2021-05-13 00:00:00+00:00
+[2021-05-14 00:41:09,233] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/csgo_pipeline.py took 0.150 seconds
+[2021-05-14 00:41:39,845] {scheduler_job.py:182} INFO - Started process (PID=16299) to work on /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:41:39,847] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/csgo_pipeline.py for tasks to queue
+[2021-05-14 00:41:39,847] {logging_mixin.py:104} INFO - [2021-05-14 00:41:39,847] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:41:39,872] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['CS_GO_Pipeline']) retrieved from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:41:39,890] {logging_mixin.py:104} INFO - [2021-05-14 00:41:39,890] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-14 00:41:39,904] {logging_mixin.py:104} INFO - [2021-05-14 00:41:39,904] {dag.py:2280} INFO - Setting next_dagrun for CS_GO_Pipeline to 2021-05-13 00:00:00+00:00
+[2021-05-14 00:41:39,920] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/csgo_pipeline.py took 0.077 seconds
+[2021-05-14 00:42:10,626] {scheduler_job.py:182} INFO - Started process (PID=16326) to work on /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:42:10,627] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/csgo_pipeline.py for tasks to queue
+[2021-05-14 00:42:10,629] {logging_mixin.py:104} INFO - [2021-05-14 00:42:10,628] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:42:10,654] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['CS_GO_Pipeline']) retrieved from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:42:10,672] {logging_mixin.py:104} INFO - [2021-05-14 00:42:10,672] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-14 00:42:10,687] {logging_mixin.py:104} INFO - [2021-05-14 00:42:10,687] {dag.py:2280} INFO - Setting next_dagrun for CS_GO_Pipeline to 2021-05-13 00:00:00+00:00
+[2021-05-14 00:42:10,771] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/csgo_pipeline.py took 0.148 seconds
+[2021-05-14 00:42:41,359] {scheduler_job.py:182} INFO - Started process (PID=16353) to work on /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:42:41,361] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/csgo_pipeline.py for tasks to queue
+[2021-05-14 00:42:41,361] {logging_mixin.py:104} INFO - [2021-05-14 00:42:41,361] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:42:41,388] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['CS_GO_Pipeline']) retrieved from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:42:41,408] {logging_mixin.py:104} INFO - [2021-05-14 00:42:41,407] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-14 00:42:41,425] {logging_mixin.py:104} INFO - [2021-05-14 00:42:41,425] {dag.py:2280} INFO - Setting next_dagrun for CS_GO_Pipeline to 2021-05-13 00:00:00+00:00
+[2021-05-14 00:42:41,477] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/csgo_pipeline.py took 0.122 seconds
+[2021-05-14 00:43:12,154] {scheduler_job.py:182} INFO - Started process (PID=16380) to work on /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:43:12,155] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/csgo_pipeline.py for tasks to queue
+[2021-05-14 00:43:12,156] {logging_mixin.py:104} INFO - [2021-05-14 00:43:12,156] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:43:12,180] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['CS_GO_Pipeline']) retrieved from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:43:12,198] {logging_mixin.py:104} INFO - [2021-05-14 00:43:12,197] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-14 00:43:12,213] {logging_mixin.py:104} INFO - [2021-05-14 00:43:12,213] {dag.py:2280} INFO - Setting next_dagrun for CS_GO_Pipeline to 2021-05-13 00:00:00+00:00
+[2021-05-14 00:43:12,301] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/csgo_pipeline.py took 0.150 seconds
+[2021-05-14 00:43:43,111] {scheduler_job.py:182} INFO - Started process (PID=16407) to work on /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:43:43,112] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/csgo_pipeline.py for tasks to queue
+[2021-05-14 00:43:43,113] {logging_mixin.py:104} INFO - [2021-05-14 00:43:43,112] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:43:43,139] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['CS_GO_Pipeline']) retrieved from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:43:43,156] {logging_mixin.py:104} INFO - [2021-05-14 00:43:43,156] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-14 00:43:43,171] {logging_mixin.py:104} INFO - [2021-05-14 00:43:43,171] {dag.py:2280} INFO - Setting next_dagrun for CS_GO_Pipeline to 2021-05-13 00:00:00+00:00
+[2021-05-14 00:43:43,245] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/csgo_pipeline.py took 0.137 seconds
+[2021-05-14 00:44:13,908] {scheduler_job.py:182} INFO - Started process (PID=16434) to work on /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:44:13,909] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/csgo_pipeline.py for tasks to queue
+[2021-05-14 00:44:13,910] {logging_mixin.py:104} INFO - [2021-05-14 00:44:13,910] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:44:13,936] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['CS_GO_Pipeline']) retrieved from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:44:13,953] {logging_mixin.py:104} INFO - [2021-05-14 00:44:13,953] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-14 00:44:13,968] {logging_mixin.py:104} INFO - [2021-05-14 00:44:13,968] {dag.py:2280} INFO - Setting next_dagrun for CS_GO_Pipeline to 2021-05-13 00:00:00+00:00
+[2021-05-14 00:44:13,979] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/csgo_pipeline.py took 0.075 seconds
+[2021-05-14 00:44:44,756] {scheduler_job.py:182} INFO - Started process (PID=16461) to work on /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:44:44,758] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/csgo_pipeline.py for tasks to queue
+[2021-05-14 00:44:44,758] {logging_mixin.py:104} INFO - [2021-05-14 00:44:44,758] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:44:44,790] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['CS_GO_Pipeline']) retrieved from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:44:44,813] {logging_mixin.py:104} INFO - [2021-05-14 00:44:44,813] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-14 00:44:44,832] {logging_mixin.py:104} INFO - [2021-05-14 00:44:44,832] {dag.py:2280} INFO - Setting next_dagrun for CS_GO_Pipeline to 2021-05-13 00:00:00+00:00
+[2021-05-14 00:44:44,852] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/csgo_pipeline.py took 0.098 seconds
+[2021-05-14 00:45:15,509] {scheduler_job.py:182} INFO - Started process (PID=16488) to work on /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:45:15,511] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/csgo_pipeline.py for tasks to queue
+[2021-05-14 00:45:15,512] {logging_mixin.py:104} INFO - [2021-05-14 00:45:15,512] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:45:15,547] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['CS_GO_Pipeline']) retrieved from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:45:15,584] {logging_mixin.py:104} INFO - [2021-05-14 00:45:15,584] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-14 00:45:15,617] {logging_mixin.py:104} INFO - [2021-05-14 00:45:15,617] {dag.py:2280} INFO - Setting next_dagrun for CS_GO_Pipeline to 2021-05-13 00:00:00+00:00
+[2021-05-14 00:45:15,635] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/csgo_pipeline.py took 0.131 seconds
+[2021-05-14 00:45:46,074] {scheduler_job.py:182} INFO - Started process (PID=16515) to work on /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:45:46,075] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/csgo_pipeline.py for tasks to queue
+[2021-05-14 00:45:46,076] {logging_mixin.py:104} INFO - [2021-05-14 00:45:46,076] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:45:46,104] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['CS_GO_Pipeline']) retrieved from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:45:46,122] {logging_mixin.py:104} INFO - [2021-05-14 00:45:46,122] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-14 00:45:46,137] {logging_mixin.py:104} INFO - [2021-05-14 00:45:46,137] {dag.py:2280} INFO - Setting next_dagrun for CS_GO_Pipeline to 2021-05-13 00:00:00+00:00
+[2021-05-14 00:45:46,232] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/csgo_pipeline.py took 0.160 seconds
+[2021-05-14 00:46:17,026] {scheduler_job.py:182} INFO - Started process (PID=16542) to work on /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:46:17,027] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/csgo_pipeline.py for tasks to queue
+[2021-05-14 00:46:17,028] {logging_mixin.py:104} INFO - [2021-05-14 00:46:17,028] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:46:17,059] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['CS_GO_Pipeline']) retrieved from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:46:17,079] {logging_mixin.py:104} INFO - [2021-05-14 00:46:17,079] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-14 00:46:17,096] {logging_mixin.py:104} INFO - [2021-05-14 00:46:17,095] {dag.py:2280} INFO - Setting next_dagrun for CS_GO_Pipeline to 2021-05-13 00:00:00+00:00
+[2021-05-14 00:46:17,188] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/csgo_pipeline.py took 0.165 seconds
+[2021-05-14 00:46:47,243] {scheduler_job.py:182} INFO - Started process (PID=16569) to work on /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:46:47,244] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/csgo_pipeline.py for tasks to queue
+[2021-05-14 00:46:47,245] {logging_mixin.py:104} INFO - [2021-05-14 00:46:47,245] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:46:47,272] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['CS_GO_Pipeline']) retrieved from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:46:47,291] {logging_mixin.py:104} INFO - [2021-05-14 00:46:47,291] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-14 00:46:47,306] {logging_mixin.py:104} INFO - [2021-05-14 00:46:47,306] {dag.py:2280} INFO - Setting next_dagrun for CS_GO_Pipeline to 2021-05-13 00:00:00+00:00
+[2021-05-14 00:46:47,317] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/csgo_pipeline.py took 0.077 seconds
+[2021-05-14 00:47:17,360] {scheduler_job.py:182} INFO - Started process (PID=16595) to work on /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:47:17,362] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/csgo_pipeline.py for tasks to queue
+[2021-05-14 00:47:17,364] {logging_mixin.py:104} INFO - [2021-05-14 00:47:17,364] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:47:17,392] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['CS_GO_Pipeline']) retrieved from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:47:17,409] {logging_mixin.py:104} INFO - [2021-05-14 00:47:17,409] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-14 00:47:17,424] {logging_mixin.py:104} INFO - [2021-05-14 00:47:17,424] {dag.py:2280} INFO - Setting next_dagrun for CS_GO_Pipeline to 2021-05-13 00:00:00+00:00
+[2021-05-14 00:47:17,434] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/csgo_pipeline.py took 0.076 seconds
+[2021-05-14 00:47:47,580] {scheduler_job.py:182} INFO - Started process (PID=16622) to work on /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:47:47,581] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/csgo_pipeline.py for tasks to queue
+[2021-05-14 00:47:47,581] {logging_mixin.py:104} INFO - [2021-05-14 00:47:47,581] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:47:47,605] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['CS_GO_Pipeline']) retrieved from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:47:47,622] {logging_mixin.py:104} INFO - [2021-05-14 00:47:47,622] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-14 00:47:47,638] {logging_mixin.py:104} INFO - [2021-05-14 00:47:47,638] {dag.py:2280} INFO - Setting next_dagrun for CS_GO_Pipeline to 2021-05-13 00:00:00+00:00
+[2021-05-14 00:47:47,721] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/csgo_pipeline.py took 0.145 seconds
+[2021-05-14 00:48:18,451] {scheduler_job.py:182} INFO - Started process (PID=16649) to work on /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:48:18,453] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/csgo_pipeline.py for tasks to queue
+[2021-05-14 00:48:18,454] {logging_mixin.py:104} INFO - [2021-05-14 00:48:18,453] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:48:18,481] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['CS_GO_Pipeline']) retrieved from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:48:18,499] {logging_mixin.py:104} INFO - [2021-05-14 00:48:18,499] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-14 00:48:18,513] {logging_mixin.py:104} INFO - [2021-05-14 00:48:18,513] {dag.py:2280} INFO - Setting next_dagrun for CS_GO_Pipeline to 2021-05-13 00:00:00+00:00
+[2021-05-14 00:48:18,594] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/csgo_pipeline.py took 0.146 seconds
+[2021-05-14 00:48:48,989] {scheduler_job.py:182} INFO - Started process (PID=16676) to work on /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:48:48,990] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/csgo_pipeline.py for tasks to queue
+[2021-05-14 00:48:48,991] {logging_mixin.py:104} INFO - [2021-05-14 00:48:48,991] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:48:49,014] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['CS_GO_Pipeline']) retrieved from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:48:49,032] {logging_mixin.py:104} INFO - [2021-05-14 00:48:49,031] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-14 00:48:49,047] {logging_mixin.py:104} INFO - [2021-05-14 00:48:49,047] {dag.py:2280} INFO - Setting next_dagrun for CS_GO_Pipeline to 2021-05-13 00:00:00+00:00
+[2021-05-14 00:48:49,069] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/csgo_pipeline.py took 0.083 seconds
+[2021-05-14 00:49:19,174] {scheduler_job.py:182} INFO - Started process (PID=16703) to work on /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:49:19,175] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/csgo_pipeline.py for tasks to queue
+[2021-05-14 00:49:19,176] {logging_mixin.py:104} INFO - [2021-05-14 00:49:19,176] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:49:19,203] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['CS_GO_Pipeline']) retrieved from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:49:19,225] {logging_mixin.py:104} INFO - [2021-05-14 00:49:19,225] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-14 00:49:19,242] {logging_mixin.py:104} INFO - [2021-05-14 00:49:19,242] {dag.py:2280} INFO - Setting next_dagrun for CS_GO_Pipeline to 2021-05-13 00:00:00+00:00
+[2021-05-14 00:49:19,261] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/csgo_pipeline.py took 0.090 seconds
+[2021-05-14 00:49:49,362] {scheduler_job.py:182} INFO - Started process (PID=16729) to work on /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:49:49,363] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/csgo_pipeline.py for tasks to queue
+[2021-05-14 00:49:49,364] {logging_mixin.py:104} INFO - [2021-05-14 00:49:49,364] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:49:49,388] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['CS_GO_Pipeline']) retrieved from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:49:49,406] {logging_mixin.py:104} INFO - [2021-05-14 00:49:49,406] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-14 00:49:49,421] {logging_mixin.py:104} INFO - [2021-05-14 00:49:49,421] {dag.py:2280} INFO - Setting next_dagrun for CS_GO_Pipeline to 2021-05-13 00:00:00+00:00
+[2021-05-14 00:49:49,443] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/csgo_pipeline.py took 0.085 seconds
+[2021-05-14 00:50:19,554] {scheduler_job.py:182} INFO - Started process (PID=16755) to work on /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:50:19,556] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/csgo_pipeline.py for tasks to queue
+[2021-05-14 00:50:19,556] {logging_mixin.py:104} INFO - [2021-05-14 00:50:19,556] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:50:19,584] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['CS_GO_Pipeline']) retrieved from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:50:19,604] {logging_mixin.py:104} INFO - [2021-05-14 00:50:19,604] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-14 00:50:19,636] {logging_mixin.py:104} INFO - [2021-05-14 00:50:19,635] {dag.py:2280} INFO - Setting next_dagrun for CS_GO_Pipeline to 2021-05-13 00:00:00+00:00
+[2021-05-14 00:50:19,654] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/csgo_pipeline.py took 0.103 seconds
+[2021-05-14 00:50:49,930] {scheduler_job.py:182} INFO - Started process (PID=16784) to work on /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:50:49,932] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/csgo_pipeline.py for tasks to queue
+[2021-05-14 00:50:49,933] {logging_mixin.py:104} INFO - [2021-05-14 00:50:49,933] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:50:49,982] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['CS_GO_Pipeline']) retrieved from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:50:50,010] {logging_mixin.py:104} INFO - [2021-05-14 00:50:50,010] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-14 00:50:50,030] {logging_mixin.py:104} INFO - [2021-05-14 00:50:50,030] {dag.py:2280} INFO - Setting next_dagrun for CS_GO_Pipeline to 2021-05-13 00:00:00+00:00
+[2021-05-14 00:50:50,054] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/csgo_pipeline.py took 0.128 seconds
+[2021-05-14 00:51:20,117] {scheduler_job.py:182} INFO - Started process (PID=16808) to work on /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:51:20,118] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/csgo_pipeline.py for tasks to queue
+[2021-05-14 00:51:20,119] {logging_mixin.py:104} INFO - [2021-05-14 00:51:20,119] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:51:20,147] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['CS_GO_Pipeline']) retrieved from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:51:20,165] {logging_mixin.py:104} INFO - [2021-05-14 00:51:20,165] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-14 00:51:20,180] {logging_mixin.py:104} INFO - [2021-05-14 00:51:20,180] {dag.py:2280} INFO - Setting next_dagrun for CS_GO_Pipeline to 2021-05-13 00:00:00+00:00
+[2021-05-14 00:51:20,237] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/csgo_pipeline.py took 0.123 seconds
+[2021-05-14 00:51:50,462] {scheduler_job.py:182} INFO - Started process (PID=16835) to work on /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:51:50,463] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/csgo_pipeline.py for tasks to queue
+[2021-05-14 00:51:50,464] {logging_mixin.py:104} INFO - [2021-05-14 00:51:50,464] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:51:50,490] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['CS_GO_Pipeline']) retrieved from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:51:50,508] {logging_mixin.py:104} INFO - [2021-05-14 00:51:50,508] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-14 00:51:50,523] {logging_mixin.py:104} INFO - [2021-05-14 00:51:50,523] {dag.py:2280} INFO - Setting next_dagrun for CS_GO_Pipeline to 2021-05-13 00:00:00+00:00
+[2021-05-14 00:51:50,564] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/csgo_pipeline.py took 0.104 seconds
+[2021-05-14 00:52:21,013] {scheduler_job.py:182} INFO - Started process (PID=16863) to work on /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:52:21,015] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/csgo_pipeline.py for tasks to queue
+[2021-05-14 00:52:21,016] {logging_mixin.py:104} INFO - [2021-05-14 00:52:21,016] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:52:21,043] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['CS_GO_Pipeline']) retrieved from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:52:21,062] {logging_mixin.py:104} INFO - [2021-05-14 00:52:21,062] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-14 00:52:21,079] {logging_mixin.py:104} INFO - [2021-05-14 00:52:21,079] {dag.py:2280} INFO - Setting next_dagrun for CS_GO_Pipeline to 2021-05-13 00:00:00+00:00
+[2021-05-14 00:52:21,109] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/csgo_pipeline.py took 0.099 seconds
+[2021-05-14 00:52:51,473] {scheduler_job.py:182} INFO - Started process (PID=16890) to work on /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:52:51,474] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/csgo_pipeline.py for tasks to queue
+[2021-05-14 00:52:51,475] {logging_mixin.py:104} INFO - [2021-05-14 00:52:51,475] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:52:51,501] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['CS_GO_Pipeline']) retrieved from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:52:51,519] {logging_mixin.py:104} INFO - [2021-05-14 00:52:51,519] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-14 00:52:51,535] {logging_mixin.py:104} INFO - [2021-05-14 00:52:51,535] {dag.py:2280} INFO - Setting next_dagrun for CS_GO_Pipeline to 2021-05-13 00:00:00+00:00
+[2021-05-14 00:52:51,568] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/csgo_pipeline.py took 0.098 seconds
+[2021-05-14 00:53:21,920] {scheduler_job.py:182} INFO - Started process (PID=16917) to work on /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:53:21,921] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/csgo_pipeline.py for tasks to queue
+[2021-05-14 00:53:21,922] {logging_mixin.py:104} INFO - [2021-05-14 00:53:21,922] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:53:21,947] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['CS_GO_Pipeline']) retrieved from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:53:21,965] {logging_mixin.py:104} INFO - [2021-05-14 00:53:21,965] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-14 00:53:21,982] {logging_mixin.py:104} INFO - [2021-05-14 00:53:21,982] {dag.py:2280} INFO - Setting next_dagrun for CS_GO_Pipeline to 2021-05-13 00:00:00+00:00
+[2021-05-14 00:53:21,992] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/csgo_pipeline.py took 0.076 seconds
+[2021-05-14 00:53:52,551] {scheduler_job.py:182} INFO - Started process (PID=16947) to work on /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:53:52,553] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/csgo_pipeline.py for tasks to queue
+[2021-05-14 00:53:52,554] {logging_mixin.py:104} INFO - [2021-05-14 00:53:52,553] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:53:52,576] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['CS_GO_Pipeline']) retrieved from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:53:52,594] {logging_mixin.py:104} INFO - [2021-05-14 00:53:52,594] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-14 00:53:52,614] {logging_mixin.py:104} INFO - [2021-05-14 00:53:52,614] {dag.py:2280} INFO - Setting next_dagrun for CS_GO_Pipeline to 2021-05-13 00:00:00+00:00
+[2021-05-14 00:53:52,668] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/csgo_pipeline.py took 0.120 seconds
+[2021-05-14 00:54:23,043] {scheduler_job.py:182} INFO - Started process (PID=16974) to work on /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:54:23,044] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/csgo_pipeline.py for tasks to queue
+[2021-05-14 00:54:23,045] {logging_mixin.py:104} INFO - [2021-05-14 00:54:23,045] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:54:23,068] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['CS_GO_Pipeline']) retrieved from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:54:23,086] {logging_mixin.py:104} INFO - [2021-05-14 00:54:23,085] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-14 00:54:23,101] {logging_mixin.py:104} INFO - [2021-05-14 00:54:23,101] {dag.py:2280} INFO - Setting next_dagrun for CS_GO_Pipeline to 2021-05-13 00:00:00+00:00
+[2021-05-14 00:54:23,141] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/csgo_pipeline.py took 0.101 seconds
+[2021-05-14 00:54:53,335] {scheduler_job.py:182} INFO - Started process (PID=16998) to work on /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:54:53,337] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/csgo_pipeline.py for tasks to queue
+[2021-05-14 00:54:53,338] {logging_mixin.py:104} INFO - [2021-05-14 00:54:53,338] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:54:53,375] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['CS_GO_Pipeline']) retrieved from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:54:53,407] {logging_mixin.py:104} INFO - [2021-05-14 00:54:53,407] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-14 00:54:53,428] {logging_mixin.py:104} INFO - [2021-05-14 00:54:53,427] {dag.py:2280} INFO - Setting next_dagrun for CS_GO_Pipeline to 2021-05-13 00:00:00+00:00
+[2021-05-14 00:54:53,443] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/csgo_pipeline.py took 0.111 seconds
+[2021-05-14 00:55:23,678] {scheduler_job.py:182} INFO - Started process (PID=17023) to work on /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:55:23,680] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/csgo_pipeline.py for tasks to queue
+[2021-05-14 00:55:23,681] {logging_mixin.py:104} INFO - [2021-05-14 00:55:23,681] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:55:23,705] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['CS_GO_Pipeline']) retrieved from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:55:23,727] {logging_mixin.py:104} INFO - [2021-05-14 00:55:23,727] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-14 00:55:23,745] {logging_mixin.py:104} INFO - [2021-05-14 00:55:23,745] {dag.py:2280} INFO - Setting next_dagrun for CS_GO_Pipeline to 2021-05-13 00:00:00+00:00
+[2021-05-14 00:55:23,755] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/csgo_pipeline.py took 0.080 seconds
+[2021-05-14 00:55:54,097] {scheduler_job.py:182} INFO - Started process (PID=17050) to work on /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:55:54,099] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/csgo_pipeline.py for tasks to queue
+[2021-05-14 00:55:54,100] {logging_mixin.py:104} INFO - [2021-05-14 00:55:54,100] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:55:54,125] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['CS_GO_Pipeline']) retrieved from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:55:54,142] {logging_mixin.py:104} INFO - [2021-05-14 00:55:54,142] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-14 00:55:54,158] {logging_mixin.py:104} INFO - [2021-05-14 00:55:54,158] {dag.py:2280} INFO - Setting next_dagrun for CS_GO_Pipeline to 2021-05-13 00:00:00+00:00
+[2021-05-14 00:55:54,205] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/csgo_pipeline.py took 0.111 seconds
+[2021-05-14 00:56:24,679] {scheduler_job.py:182} INFO - Started process (PID=17078) to work on /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:56:24,680] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/csgo_pipeline.py for tasks to queue
+[2021-05-14 00:56:24,681] {logging_mixin.py:104} INFO - [2021-05-14 00:56:24,681] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:56:24,711] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['CS_GO_Pipeline']) retrieved from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:56:24,729] {logging_mixin.py:104} INFO - [2021-05-14 00:56:24,729] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-14 00:56:24,745] {logging_mixin.py:104} INFO - [2021-05-14 00:56:24,745] {dag.py:2280} INFO - Setting next_dagrun for CS_GO_Pipeline to 2021-05-13 00:00:00+00:00
+[2021-05-14 00:56:24,758] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/csgo_pipeline.py took 0.082 seconds
+[2021-05-14 00:56:55,066] {scheduler_job.py:182} INFO - Started process (PID=17105) to work on /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:56:55,067] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/csgo_pipeline.py for tasks to queue
+[2021-05-14 00:56:55,068] {logging_mixin.py:104} INFO - [2021-05-14 00:56:55,068] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:56:55,095] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['CS_GO_Pipeline']) retrieved from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:56:55,113] {logging_mixin.py:104} INFO - [2021-05-14 00:56:55,113] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-14 00:56:55,129] {logging_mixin.py:104} INFO - [2021-05-14 00:56:55,129] {dag.py:2280} INFO - Setting next_dagrun for CS_GO_Pipeline to 2021-05-13 00:00:00+00:00
+[2021-05-14 00:56:55,140] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/csgo_pipeline.py took 0.077 seconds
+[2021-05-14 00:57:25,788] {scheduler_job.py:182} INFO - Started process (PID=17134) to work on /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:57:25,790] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/csgo_pipeline.py for tasks to queue
+[2021-05-14 00:57:25,791] {logging_mixin.py:104} INFO - [2021-05-14 00:57:25,791] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:57:25,824] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['CS_GO_Pipeline']) retrieved from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:57:25,845] {logging_mixin.py:104} INFO - [2021-05-14 00:57:25,845] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-14 00:57:25,863] {logging_mixin.py:104} INFO - [2021-05-14 00:57:25,863] {dag.py:2280} INFO - Setting next_dagrun for CS_GO_Pipeline to 2021-05-13 00:00:00+00:00
+[2021-05-14 00:57:25,892] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/csgo_pipeline.py took 0.107 seconds
+[2021-05-14 00:57:56,405] {scheduler_job.py:182} INFO - Started process (PID=17161) to work on /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:57:56,406] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/csgo_pipeline.py for tasks to queue
+[2021-05-14 00:57:56,407] {logging_mixin.py:104} INFO - [2021-05-14 00:57:56,406] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:57:56,431] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['CS_GO_Pipeline']) retrieved from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:57:56,449] {logging_mixin.py:104} INFO - [2021-05-14 00:57:56,449] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-14 00:57:56,466] {logging_mixin.py:104} INFO - [2021-05-14 00:57:56,465] {dag.py:2280} INFO - Setting next_dagrun for CS_GO_Pipeline to 2021-05-13 00:00:00+00:00
+[2021-05-14 00:57:56,538] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/csgo_pipeline.py took 0.136 seconds
+[2021-05-14 00:58:27,202] {scheduler_job.py:182} INFO - Started process (PID=17188) to work on /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:58:27,204] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/csgo_pipeline.py for tasks to queue
+[2021-05-14 00:58:27,206] {logging_mixin.py:104} INFO - [2021-05-14 00:58:27,206] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:58:27,247] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['CS_GO_Pipeline']) retrieved from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:58:27,267] {logging_mixin.py:104} INFO - [2021-05-14 00:58:27,267] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-14 00:58:27,285] {logging_mixin.py:104} INFO - [2021-05-14 00:58:27,285] {dag.py:2280} INFO - Setting next_dagrun for CS_GO_Pipeline to 2021-05-13 00:00:00+00:00
+[2021-05-14 00:58:27,359] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/csgo_pipeline.py took 0.162 seconds
+[2021-05-14 00:58:57,858] {scheduler_job.py:182} INFO - Started process (PID=17215) to work on /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:58:57,859] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/csgo_pipeline.py for tasks to queue
+[2021-05-14 00:58:57,860] {logging_mixin.py:104} INFO - [2021-05-14 00:58:57,860] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:58:57,887] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['CS_GO_Pipeline']) retrieved from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:58:57,908] {logging_mixin.py:104} INFO - [2021-05-14 00:58:57,908] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-14 00:58:57,927] {logging_mixin.py:104} INFO - [2021-05-14 00:58:57,926] {dag.py:2280} INFO - Setting next_dagrun for CS_GO_Pipeline to 2021-05-13 00:00:00+00:00
+[2021-05-14 00:58:57,939] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/csgo_pipeline.py took 0.084 seconds
+[2021-05-14 00:59:28,916] {scheduler_job.py:182} INFO - Started process (PID=17244) to work on /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:59:28,918] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/csgo_pipeline.py for tasks to queue
+[2021-05-14 00:59:28,919] {logging_mixin.py:104} INFO - [2021-05-14 00:59:28,919] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:59:28,952] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['CS_GO_Pipeline']) retrieved from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:59:28,986] {logging_mixin.py:104} INFO - [2021-05-14 00:59:28,986] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-14 00:59:29,008] {logging_mixin.py:104} INFO - [2021-05-14 00:59:29,008] {dag.py:2280} INFO - Setting next_dagrun for CS_GO_Pipeline to 2021-05-13 00:00:00+00:00
+[2021-05-14 00:59:29,028] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/csgo_pipeline.py took 0.116 seconds
+[2021-05-14 00:59:59,495] {scheduler_job.py:182} INFO - Started process (PID=17270) to work on /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:59:59,496] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/csgo_pipeline.py for tasks to queue
+[2021-05-14 00:59:59,497] {logging_mixin.py:104} INFO - [2021-05-14 00:59:59,497] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:59:59,522] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['CS_GO_Pipeline']) retrieved from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 00:59:59,542] {logging_mixin.py:104} INFO - [2021-05-14 00:59:59,542] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-14 00:59:59,558] {logging_mixin.py:104} INFO - [2021-05-14 00:59:59,558] {dag.py:2280} INFO - Setting next_dagrun for CS_GO_Pipeline to 2021-05-13 00:00:00+00:00
+[2021-05-14 00:59:59,572] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/csgo_pipeline.py took 0.080 seconds
+[2021-05-14 01:00:30,110] {scheduler_job.py:182} INFO - Started process (PID=17297) to work on /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 01:00:30,113] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/csgo_pipeline.py for tasks to queue
+[2021-05-14 01:00:30,114] {logging_mixin.py:104} INFO - [2021-05-14 01:00:30,114] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 01:00:30,143] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['CS_GO_Pipeline']) retrieved from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 01:00:30,163] {logging_mixin.py:104} INFO - [2021-05-14 01:00:30,163] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-14 01:00:30,178] {logging_mixin.py:104} INFO - [2021-05-14 01:00:30,178] {dag.py:2280} INFO - Setting next_dagrun for CS_GO_Pipeline to 2021-05-13 00:00:00+00:00
+[2021-05-14 01:00:30,188] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/csgo_pipeline.py took 0.081 seconds
+[2021-05-14 01:01:00,394] {scheduler_job.py:182} INFO - Started process (PID=17321) to work on /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 01:01:00,395] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/csgo_pipeline.py for tasks to queue
+[2021-05-14 01:01:00,396] {logging_mixin.py:104} INFO - [2021-05-14 01:01:00,396] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 01:01:00,422] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['CS_GO_Pipeline']) retrieved from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 01:01:00,439] {logging_mixin.py:104} INFO - [2021-05-14 01:01:00,439] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-14 01:01:00,455] {logging_mixin.py:104} INFO - [2021-05-14 01:01:00,455] {dag.py:2280} INFO - Setting next_dagrun for CS_GO_Pipeline to 2021-05-13 00:00:00+00:00
+[2021-05-14 01:01:00,531] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/csgo_pipeline.py took 0.140 seconds
+[2021-05-14 01:01:31,264] {scheduler_job.py:182} INFO - Started process (PID=17351) to work on /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 01:01:31,265] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/csgo_pipeline.py for tasks to queue
+[2021-05-14 01:01:31,266] {logging_mixin.py:104} INFO - [2021-05-14 01:01:31,266] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 01:01:31,296] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['CS_GO_Pipeline']) retrieved from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 01:01:31,314] {logging_mixin.py:104} INFO - [2021-05-14 01:01:31,314] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-14 01:01:31,329] {logging_mixin.py:104} INFO - [2021-05-14 01:01:31,329] {dag.py:2280} INFO - Setting next_dagrun for CS_GO_Pipeline to 2021-05-13 00:00:00+00:00
+[2021-05-14 01:01:31,339] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/csgo_pipeline.py took 0.078 seconds
+[2021-05-14 01:02:01,855] {scheduler_job.py:182} INFO - Started process (PID=17378) to work on /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 01:02:01,856] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/csgo_pipeline.py for tasks to queue
+[2021-05-14 01:02:01,858] {logging_mixin.py:104} INFO - [2021-05-14 01:02:01,857] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 01:02:01,885] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['CS_GO_Pipeline']) retrieved from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 01:02:01,903] {logging_mixin.py:104} INFO - [2021-05-14 01:02:01,903] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-14 01:02:01,918] {logging_mixin.py:104} INFO - [2021-05-14 01:02:01,918] {dag.py:2280} INFO - Setting next_dagrun for CS_GO_Pipeline to 2021-05-13 00:00:00+00:00
+[2021-05-14 01:02:01,988] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/csgo_pipeline.py took 0.136 seconds
+[2021-05-14 01:02:32,574] {scheduler_job.py:182} INFO - Started process (PID=17405) to work on /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 01:02:32,576] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/csgo_pipeline.py for tasks to queue
+[2021-05-14 01:02:32,577] {logging_mixin.py:104} INFO - [2021-05-14 01:02:32,576] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 01:02:32,600] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['CS_GO_Pipeline']) retrieved from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 01:02:32,618] {logging_mixin.py:104} INFO - [2021-05-14 01:02:32,618] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-14 01:02:32,633] {logging_mixin.py:104} INFO - [2021-05-14 01:02:32,633] {dag.py:2280} INFO - Setting next_dagrun for CS_GO_Pipeline to 2021-05-13 00:00:00+00:00
+[2021-05-14 01:02:32,643] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/csgo_pipeline.py took 0.072 seconds
+[2021-05-14 01:03:02,939] {scheduler_job.py:182} INFO - Started process (PID=17430) to work on /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 01:03:02,940] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/csgo_pipeline.py for tasks to queue
+[2021-05-14 01:03:02,941] {logging_mixin.py:104} INFO - [2021-05-14 01:03:02,941] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 01:03:02,966] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['CS_GO_Pipeline']) retrieved from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 01:03:02,986] {logging_mixin.py:104} INFO - [2021-05-14 01:03:02,985] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-14 01:03:03,001] {logging_mixin.py:104} INFO - [2021-05-14 01:03:03,001] {dag.py:2280} INFO - Setting next_dagrun for CS_GO_Pipeline to 2021-05-13 00:00:00+00:00
+[2021-05-14 01:03:03,012] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/csgo_pipeline.py took 0.076 seconds
+[2021-05-14 01:03:33,785] {scheduler_job.py:182} INFO - Started process (PID=17458) to work on /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 01:03:33,786] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/csgo_pipeline.py for tasks to queue
+[2021-05-14 01:03:33,787] {logging_mixin.py:104} INFO - [2021-05-14 01:03:33,787] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 01:03:33,815] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['CS_GO_Pipeline']) retrieved from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 01:03:33,833] {logging_mixin.py:104} INFO - [2021-05-14 01:03:33,833] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-14 01:03:33,850] {logging_mixin.py:104} INFO - [2021-05-14 01:03:33,850] {dag.py:2280} INFO - Setting next_dagrun for CS_GO_Pipeline to 2021-05-13 00:00:00+00:00
+[2021-05-14 01:03:33,947] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/csgo_pipeline.py took 0.164 seconds
+[2021-05-14 01:04:04,016] {scheduler_job.py:182} INFO - Started process (PID=17485) to work on /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 01:04:04,017] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/csgo_pipeline.py for tasks to queue
+[2021-05-14 01:04:04,018] {logging_mixin.py:104} INFO - [2021-05-14 01:04:04,018] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 01:04:04,061] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['CS_GO_Pipeline']) retrieved from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 01:04:04,081] {logging_mixin.py:104} INFO - [2021-05-14 01:04:04,081] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-14 01:04:04,096] {logging_mixin.py:104} INFO - [2021-05-14 01:04:04,095] {dag.py:2280} INFO - Setting next_dagrun for CS_GO_Pipeline to 2021-05-13 00:00:00+00:00
+[2021-05-14 01:04:04,201] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/csgo_pipeline.py took 0.189 seconds
+[2021-05-14 01:04:34,321] {scheduler_job.py:182} INFO - Started process (PID=17512) to work on /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 01:04:34,323] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/csgo_pipeline.py for tasks to queue
+[2021-05-14 01:04:34,324] {logging_mixin.py:104} INFO - [2021-05-14 01:04:34,323] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 01:04:34,361] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['CS_GO_Pipeline']) retrieved from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 01:04:34,380] {logging_mixin.py:104} INFO - [2021-05-14 01:04:34,380] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-14 01:04:34,394] {logging_mixin.py:104} INFO - [2021-05-14 01:04:34,394] {dag.py:2280} INFO - Setting next_dagrun for CS_GO_Pipeline to 2021-05-13 00:00:00+00:00
+[2021-05-14 01:04:34,447] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/csgo_pipeline.py took 0.128 seconds
+[2021-05-14 01:05:05,442] {scheduler_job.py:182} INFO - Started process (PID=17541) to work on /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 01:05:05,443] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/csgo_pipeline.py for tasks to queue
+[2021-05-14 01:05:05,444] {logging_mixin.py:104} INFO - [2021-05-14 01:05:05,444] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 01:05:05,481] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['CS_GO_Pipeline']) retrieved from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 01:05:05,501] {logging_mixin.py:104} INFO - [2021-05-14 01:05:05,501] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-14 01:05:05,515] {logging_mixin.py:104} INFO - [2021-05-14 01:05:05,515] {dag.py:2280} INFO - Setting next_dagrun for CS_GO_Pipeline to 2021-05-13 00:00:00+00:00
+[2021-05-14 01:05:05,621] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/csgo_pipeline.py took 0.181 seconds
+[2021-05-14 01:05:35,989] {scheduler_job.py:182} INFO - Started process (PID=17568) to work on /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 01:05:35,990] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/csgo_pipeline.py for tasks to queue
+[2021-05-14 01:05:35,991] {logging_mixin.py:104} INFO - [2021-05-14 01:05:35,991] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 01:05:36,026] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['CS_GO_Pipeline']) retrieved from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 01:05:36,045] {logging_mixin.py:104} INFO - [2021-05-14 01:05:36,045] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-14 01:05:36,059] {logging_mixin.py:104} INFO - [2021-05-14 01:05:36,059] {dag.py:2280} INFO - Setting next_dagrun for CS_GO_Pipeline to 2021-05-13 00:00:00+00:00
+[2021-05-14 01:05:36,075] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/csgo_pipeline.py took 0.089 seconds
+[2021-05-14 01:06:06,886] {scheduler_job.py:182} INFO - Started process (PID=17600) to work on /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 01:06:06,887] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/csgo_pipeline.py for tasks to queue
+[2021-05-14 01:06:06,888] {logging_mixin.py:104} INFO - [2021-05-14 01:06:06,888] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 01:06:06,913] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['CS_GO_Pipeline']) retrieved from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 01:06:06,936] {logging_mixin.py:104} INFO - [2021-05-14 01:06:06,936] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-14 01:06:06,952] {logging_mixin.py:104} INFO - [2021-05-14 01:06:06,952] {dag.py:2280} INFO - Setting next_dagrun for CS_GO_Pipeline to 2021-05-14 00:00:00+00:00
+[2021-05-14 01:06:06,962] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/csgo_pipeline.py took 0.080 seconds
+[2021-05-14 01:06:37,445] {scheduler_job.py:182} INFO - Started process (PID=17627) to work on /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 01:06:37,446] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/csgo_pipeline.py for tasks to queue
+[2021-05-14 01:06:37,448] {logging_mixin.py:104} INFO - [2021-05-14 01:06:37,448] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 01:06:37,488] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['CS_GO_Pipeline']) retrieved from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 01:06:37,506] {logging_mixin.py:104} INFO - [2021-05-14 01:06:37,506] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-14 01:06:37,521] {logging_mixin.py:104} INFO - [2021-05-14 01:06:37,521] {dag.py:2280} INFO - Setting next_dagrun for CS_GO_Pipeline to 2021-05-14 00:00:00+00:00
+[2021-05-14 01:06:37,545] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/csgo_pipeline.py took 0.104 seconds
+[2021-05-14 01:07:07,574] {scheduler_job.py:182} INFO - Started process (PID=17651) to work on /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 01:07:07,575] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/csgo_pipeline.py for tasks to queue
+[2021-05-14 01:07:07,576] {logging_mixin.py:104} INFO - [2021-05-14 01:07:07,576] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 01:07:07,612] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['CS_GO_Pipeline']) retrieved from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 01:07:07,640] {logging_mixin.py:104} INFO - [2021-05-14 01:07:07,640] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-14 01:07:07,661] {logging_mixin.py:104} INFO - [2021-05-14 01:07:07,661] {dag.py:2280} INFO - Setting next_dagrun for CS_GO_Pipeline to 2021-05-13 00:00:00+00:00
+[2021-05-14 01:07:07,673] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/csgo_pipeline.py took 0.102 seconds
+[2021-05-14 01:07:38,305] {scheduler_job.py:182} INFO - Started process (PID=17686) to work on /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 01:07:38,307] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/csgo_pipeline.py for tasks to queue
+[2021-05-14 01:07:38,308] {logging_mixin.py:104} INFO - [2021-05-14 01:07:38,307] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 01:07:38,335] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['CS_GO_Pipeline']) retrieved from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 01:07:38,352] {logging_mixin.py:104} INFO - [2021-05-14 01:07:38,352] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-14 01:07:38,371] {logging_mixin.py:104} INFO - [2021-05-14 01:07:38,371] {dag.py:2280} INFO - Setting next_dagrun for CS_GO_Pipeline to 2021-05-14 00:00:00+00:00
+[2021-05-14 01:07:38,427] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/csgo_pipeline.py took 0.125 seconds
+[2021-05-14 01:08:08,613] {scheduler_job.py:182} INFO - Started process (PID=17713) to work on /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 01:08:08,614] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/csgo_pipeline.py for tasks to queue
+[2021-05-14 01:08:08,615] {logging_mixin.py:104} INFO - [2021-05-14 01:08:08,615] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 01:08:08,643] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['CS_GO_Pipeline']) retrieved from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 01:08:08,661] {logging_mixin.py:104} INFO - [2021-05-14 01:08:08,661] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-14 01:08:08,678] {logging_mixin.py:104} INFO - [2021-05-14 01:08:08,678] {dag.py:2280} INFO - Setting next_dagrun for CS_GO_Pipeline to 2021-05-14 00:00:00+00:00
+[2021-05-14 01:08:08,689] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/csgo_pipeline.py took 0.079 seconds
+[2021-05-14 01:08:38,963] {scheduler_job.py:182} INFO - Started process (PID=17739) to work on /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 01:08:38,964] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/csgo_pipeline.py for tasks to queue
+[2021-05-14 01:08:38,965] {logging_mixin.py:104} INFO - [2021-05-14 01:08:38,965] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 01:08:38,994] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['CS_GO_Pipeline']) retrieved from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 01:08:39,014] {logging_mixin.py:104} INFO - [2021-05-14 01:08:39,014] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-14 01:08:39,045] {logging_mixin.py:104} INFO - [2021-05-14 01:08:39,045] {dag.py:2280} INFO - Setting next_dagrun for CS_GO_Pipeline to 2021-05-14 00:00:00+00:00
+[2021-05-14 01:08:39,061] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/csgo_pipeline.py took 0.101 seconds
+[2021-05-14 01:09:09,347] {scheduler_job.py:182} INFO - Started process (PID=17766) to work on /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 01:09:09,348] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/csgo_pipeline.py for tasks to queue
+[2021-05-14 01:09:09,349] {logging_mixin.py:104} INFO - [2021-05-14 01:09:09,349] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 01:09:09,377] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['CS_GO_Pipeline']) retrieved from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 01:09:09,395] {logging_mixin.py:104} INFO - [2021-05-14 01:09:09,395] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-14 01:09:09,412] {logging_mixin.py:104} INFO - [2021-05-14 01:09:09,412] {dag.py:2280} INFO - Setting next_dagrun for CS_GO_Pipeline to 2021-05-14 00:00:00+00:00
+[2021-05-14 01:09:09,443] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/csgo_pipeline.py took 0.099 seconds
+[2021-05-14 01:09:39,762] {scheduler_job.py:182} INFO - Started process (PID=17798) to work on /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 01:09:39,763] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/csgo_pipeline.py for tasks to queue
+[2021-05-14 01:09:39,764] {logging_mixin.py:104} INFO - [2021-05-14 01:09:39,764] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 01:09:39,787] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['CS_GO_Pipeline']) retrieved from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 01:09:39,805] {logging_mixin.py:104} INFO - [2021-05-14 01:09:39,805] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-14 01:09:39,822] {logging_mixin.py:104} INFO - [2021-05-14 01:09:39,822] {dag.py:2280} INFO - Setting next_dagrun for CS_GO_Pipeline to 2021-05-14 00:00:00+00:00
+[2021-05-14 01:09:39,832] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/csgo_pipeline.py took 0.073 seconds
+[2021-05-14 01:10:09,905] {scheduler_job.py:182} INFO - Started process (PID=17822) to work on /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 01:10:09,906] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/csgo_pipeline.py for tasks to queue
+[2021-05-14 01:10:09,907] {logging_mixin.py:104} INFO - [2021-05-14 01:10:09,907] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 01:10:09,933] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['CS_GO_Pipeline']) retrieved from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 01:10:09,953] {logging_mixin.py:104} INFO - [2021-05-14 01:10:09,953] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-14 01:10:09,970] {logging_mixin.py:104} INFO - [2021-05-14 01:10:09,970] {dag.py:2280} INFO - Setting next_dagrun for CS_GO_Pipeline to 2021-05-14 00:00:00+00:00
+[2021-05-14 01:10:09,994] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/csgo_pipeline.py took 0.092 seconds
+[2021-05-14 01:10:40,690] {scheduler_job.py:182} INFO - Started process (PID=17851) to work on /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 01:10:40,691] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/csgo_pipeline.py for tasks to queue
+[2021-05-14 01:10:40,694] {logging_mixin.py:104} INFO - [2021-05-14 01:10:40,692] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 01:10:40,718] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['CS_GO_Pipeline']) retrieved from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 01:10:40,744] {logging_mixin.py:104} INFO - [2021-05-14 01:10:40,744] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-14 01:10:40,763] {logging_mixin.py:104} INFO - [2021-05-14 01:10:40,763] {dag.py:2280} INFO - Setting next_dagrun for CS_GO_Pipeline to 2021-05-14 00:00:00+00:00
+[2021-05-14 01:10:40,809] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/csgo_pipeline.py took 0.122 seconds
+[2021-05-14 01:11:11,285] {scheduler_job.py:182} INFO - Started process (PID=17878) to work on /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 01:11:11,286] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/csgo_pipeline.py for tasks to queue
+[2021-05-14 01:11:11,287] {logging_mixin.py:104} INFO - [2021-05-14 01:11:11,287] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 01:11:11,312] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['CS_GO_Pipeline']) retrieved from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 01:11:11,332] {logging_mixin.py:104} INFO - [2021-05-14 01:11:11,332] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-14 01:11:11,349] {logging_mixin.py:104} INFO - [2021-05-14 01:11:11,349] {dag.py:2280} INFO - Setting next_dagrun for CS_GO_Pipeline to 2021-05-14 00:00:00+00:00
+[2021-05-14 01:11:11,360] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/csgo_pipeline.py took 0.078 seconds
+[2021-05-14 01:11:41,841] {scheduler_job.py:182} INFO - Started process (PID=17906) to work on /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 01:11:41,843] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/csgo_pipeline.py for tasks to queue
+[2021-05-14 01:11:41,844] {logging_mixin.py:104} INFO - [2021-05-14 01:11:41,844] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 01:11:41,868] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['CS_GO_Pipeline']) retrieved from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 01:11:41,891] {logging_mixin.py:104} INFO - [2021-05-14 01:11:41,891] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-14 01:11:41,908] {logging_mixin.py:104} INFO - [2021-05-14 01:11:41,908] {dag.py:2280} INFO - Setting next_dagrun for CS_GO_Pipeline to 2021-05-14 00:00:00+00:00
+[2021-05-14 01:11:41,920] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/csgo_pipeline.py took 0.082 seconds
+[2021-05-14 01:12:12,586] {scheduler_job.py:182} INFO - Started process (PID=17933) to work on /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 01:12:12,587] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/csgo_pipeline.py for tasks to queue
+[2021-05-14 01:12:12,587] {logging_mixin.py:104} INFO - [2021-05-14 01:12:12,587] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 01:12:12,615] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['CS_GO_Pipeline']) retrieved from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 01:12:12,642] {logging_mixin.py:104} INFO - [2021-05-14 01:12:12,642] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-14 01:12:12,662] {logging_mixin.py:104} INFO - [2021-05-14 01:12:12,662] {dag.py:2280} INFO - Setting next_dagrun for CS_GO_Pipeline to 2021-05-14 00:00:00+00:00
+[2021-05-14 01:12:12,733] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/csgo_pipeline.py took 0.151 seconds
+[2021-05-14 01:12:43,150] {scheduler_job.py:182} INFO - Started process (PID=17960) to work on /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 01:12:43,151] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/csgo_pipeline.py for tasks to queue
+[2021-05-14 01:12:43,152] {logging_mixin.py:104} INFO - [2021-05-14 01:12:43,152] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 01:12:43,180] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['CS_GO_Pipeline']) retrieved from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 01:12:43,205] {logging_mixin.py:104} INFO - [2021-05-14 01:12:43,204] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-14 01:12:43,221] {logging_mixin.py:104} INFO - [2021-05-14 01:12:43,221] {dag.py:2280} INFO - Setting next_dagrun for CS_GO_Pipeline to 2021-05-14 00:00:00+00:00
+[2021-05-14 01:12:43,260] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/csgo_pipeline.py took 0.113 seconds
+[2021-05-14 01:13:13,912] {scheduler_job.py:182} INFO - Started process (PID=17987) to work on /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 01:13:13,914] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/csgo_pipeline.py for tasks to queue
+[2021-05-14 01:13:13,915] {logging_mixin.py:104} INFO - [2021-05-14 01:13:13,915] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 01:13:14,022] {logging_mixin.py:104} INFO - [2021-05-14 01:13:13,962] {dagbag.py:308} ERROR - Failed to import: /opt/airflow/dags/csgo_pipeline.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.6/site-packages/airflow/models/dagbag.py", line 305, in _load_modules_from_file
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 678, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/csgo_pipeline.py", line 35, in <module>
+    ui_color = "blue"
+  File "/home/airflow/.local/lib/python3.6/site-packages/airflow/models/baseoperator.py", line 89, in __call__
+    obj: BaseOperator = type.__call__(cls, *args, **kwargs)
+  File "/home/airflow/.local/lib/python3.6/site-packages/airflow/utils/decorators.py", line 94, in wrapper
+    result = func(*args, **kwargs)
+  File "/home/airflow/.local/lib/python3.6/site-packages/airflow/operators/bash.py", line 122, in __init__
+    super().__init__(**kwargs)
+  File "/home/airflow/.local/lib/python3.6/site-packages/airflow/utils/decorators.py", line 94, in wrapper
+    result = func(*args, **kwargs)
+  File "/home/airflow/.local/lib/python3.6/site-packages/airflow/models/baseoperator.py", line 414, in __init__
+    "arguments were:\n**kwargs: {k}".format(c=self.__class__.__name__, k=kwargs, t=task_id),
+airflow.exceptions.AirflowException: Invalid arguments were passed to BashOperator (task_id: Matches_Results_Scraping). Invalid arguments were:
+**kwargs: {'ui_color': 'blue'}
+[2021-05-14 01:13:14,026] {scheduler_job.py:641} WARNING - No viable dags retrieved from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 01:13:14,050] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/csgo_pipeline.py took 0.144 seconds
+[2021-05-14 01:13:44,373] {scheduler_job.py:182} INFO - Started process (PID=18014) to work on /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 01:13:44,375] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/csgo_pipeline.py for tasks to queue
+[2021-05-14 01:13:44,375] {logging_mixin.py:104} INFO - [2021-05-14 01:13:44,375] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 01:13:44,404] {logging_mixin.py:104} INFO - [2021-05-14 01:13:44,400] {dagbag.py:308} ERROR - Failed to import: /opt/airflow/dags/csgo_pipeline.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.6/site-packages/airflow/models/dagbag.py", line 305, in _load_modules_from_file
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 678, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/csgo_pipeline.py", line 35, in <module>
+    ui_color = "blue"
+  File "/home/airflow/.local/lib/python3.6/site-packages/airflow/models/baseoperator.py", line 89, in __call__
+    obj: BaseOperator = type.__call__(cls, *args, **kwargs)
+  File "/home/airflow/.local/lib/python3.6/site-packages/airflow/utils/decorators.py", line 94, in wrapper
+    result = func(*args, **kwargs)
+  File "/home/airflow/.local/lib/python3.6/site-packages/airflow/operators/bash.py", line 122, in __init__
+    super().__init__(**kwargs)
+  File "/home/airflow/.local/lib/python3.6/site-packages/airflow/utils/decorators.py", line 94, in wrapper
+    result = func(*args, **kwargs)
+  File "/home/airflow/.local/lib/python3.6/site-packages/airflow/models/baseoperator.py", line 414, in __init__
+    "arguments were:\n**kwargs: {k}".format(c=self.__class__.__name__, k=kwargs, t=task_id),
+airflow.exceptions.AirflowException: Invalid arguments were passed to BashOperator (task_id: Matches_Results_Scraping). Invalid arguments were:
+**kwargs: {'ui_color': 'blue'}
+[2021-05-14 01:13:44,407] {scheduler_job.py:641} WARNING - No viable dags retrieved from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 01:13:44,427] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/csgo_pipeline.py took 0.057 seconds
+[2021-05-14 01:14:14,996] {scheduler_job.py:182} INFO - Started process (PID=18041) to work on /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 01:14:14,997] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/csgo_pipeline.py for tasks to queue
+[2021-05-14 01:14:14,998] {logging_mixin.py:104} INFO - [2021-05-14 01:14:14,998] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 01:14:15,019] {logging_mixin.py:104} INFO - [2021-05-14 01:14:15,013] {dagbag.py:308} ERROR - Failed to import: /opt/airflow/dags/csgo_pipeline.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.6/site-packages/airflow/models/dagbag.py", line 305, in _load_modules_from_file
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 678, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/csgo_pipeline.py", line 35, in <module>
+    ui_color = "blue"
+  File "/home/airflow/.local/lib/python3.6/site-packages/airflow/models/baseoperator.py", line 89, in __call__
+    obj: BaseOperator = type.__call__(cls, *args, **kwargs)
+  File "/home/airflow/.local/lib/python3.6/site-packages/airflow/utils/decorators.py", line 94, in wrapper
+    result = func(*args, **kwargs)
+  File "/home/airflow/.local/lib/python3.6/site-packages/airflow/operators/bash.py", line 122, in __init__
+    super().__init__(**kwargs)
+  File "/home/airflow/.local/lib/python3.6/site-packages/airflow/utils/decorators.py", line 94, in wrapper
+    result = func(*args, **kwargs)
+  File "/home/airflow/.local/lib/python3.6/site-packages/airflow/models/baseoperator.py", line 414, in __init__
+    "arguments were:\n**kwargs: {k}".format(c=self.__class__.__name__, k=kwargs, t=task_id),
+airflow.exceptions.AirflowException: Invalid arguments were passed to BashOperator (task_id: Matches_Results_Scraping). Invalid arguments were:
+**kwargs: {'ui_color': 'blue'}
+[2021-05-14 01:14:15,023] {scheduler_job.py:641} WARNING - No viable dags retrieved from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 01:14:15,099] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/csgo_pipeline.py took 0.105 seconds
+[2021-05-14 01:14:45,495] {scheduler_job.py:182} INFO - Started process (PID=18068) to work on /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 01:14:45,497] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/csgo_pipeline.py for tasks to queue
+[2021-05-14 01:14:45,498] {logging_mixin.py:104} INFO - [2021-05-14 01:14:45,498] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 01:14:45,518] {logging_mixin.py:104} INFO - [2021-05-14 01:14:45,514] {dagbag.py:308} ERROR - Failed to import: /opt/airflow/dags/csgo_pipeline.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.6/site-packages/airflow/models/dagbag.py", line 305, in _load_modules_from_file
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 678, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/csgo_pipeline.py", line 35, in <module>
+    ui_color = "blue"
+  File "/home/airflow/.local/lib/python3.6/site-packages/airflow/models/baseoperator.py", line 89, in __call__
+    obj: BaseOperator = type.__call__(cls, *args, **kwargs)
+  File "/home/airflow/.local/lib/python3.6/site-packages/airflow/utils/decorators.py", line 94, in wrapper
+    result = func(*args, **kwargs)
+  File "/home/airflow/.local/lib/python3.6/site-packages/airflow/operators/bash.py", line 122, in __init__
+    super().__init__(**kwargs)
+  File "/home/airflow/.local/lib/python3.6/site-packages/airflow/utils/decorators.py", line 94, in wrapper
+    result = func(*args, **kwargs)
+  File "/home/airflow/.local/lib/python3.6/site-packages/airflow/models/baseoperator.py", line 414, in __init__
+    "arguments were:\n**kwargs: {k}".format(c=self.__class__.__name__, k=kwargs, t=task_id),
+airflow.exceptions.AirflowException: Invalid arguments were passed to BashOperator (task_id: Matches_Results_Scraping). Invalid arguments were:
+**kwargs: {'ui_color': 'blue'}
+[2021-05-14 01:14:45,525] {scheduler_job.py:641} WARNING - No viable dags retrieved from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 01:14:45,545] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/csgo_pipeline.py took 0.054 seconds
+[2021-05-14 01:15:16,137] {scheduler_job.py:182} INFO - Started process (PID=18095) to work on /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 01:15:16,138] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/csgo_pipeline.py for tasks to queue
+[2021-05-14 01:15:16,139] {logging_mixin.py:104} INFO - [2021-05-14 01:15:16,139] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 01:15:16,193] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['CS_GO_Pipeline']) retrieved from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 01:15:16,211] {logging_mixin.py:104} INFO - [2021-05-14 01:15:16,211] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-14 01:15:16,229] {logging_mixin.py:104} INFO - [2021-05-14 01:15:16,229] {dag.py:2280} INFO - Setting next_dagrun for CS_GO_Pipeline to 2021-05-14 00:00:00+00:00
+[2021-05-14 01:15:16,284] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/csgo_pipeline.py took 0.150 seconds
+[2021-05-14 01:15:46,744] {scheduler_job.py:182} INFO - Started process (PID=18122) to work on /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 01:15:46,745] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/csgo_pipeline.py for tasks to queue
+[2021-05-14 01:15:46,746] {logging_mixin.py:104} INFO - [2021-05-14 01:15:46,746] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 01:15:46,774] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['CS_GO_Pipeline']) retrieved from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 01:15:46,793] {logging_mixin.py:104} INFO - [2021-05-14 01:15:46,793] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-14 01:15:46,810] {logging_mixin.py:104} INFO - [2021-05-14 01:15:46,810] {dag.py:2280} INFO - Setting next_dagrun for CS_GO_Pipeline to 2021-05-14 00:00:00+00:00
+[2021-05-14 01:15:46,885] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/csgo_pipeline.py took 0.144 seconds
+[2021-05-14 01:16:17,724] {scheduler_job.py:182} INFO - Started process (PID=18150) to work on /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 01:16:17,725] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/csgo_pipeline.py for tasks to queue
+[2021-05-14 01:16:17,726] {logging_mixin.py:104} INFO - [2021-05-14 01:16:17,726] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 01:16:17,753] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['CS_GO_Pipeline']) retrieved from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 01:16:17,778] {logging_mixin.py:104} INFO - [2021-05-14 01:16:17,778] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-14 01:16:17,797] {logging_mixin.py:104} INFO - [2021-05-14 01:16:17,797] {dag.py:2280} INFO - Setting next_dagrun for CS_GO_Pipeline to 2021-05-14 00:00:00+00:00
+[2021-05-14 01:16:17,858] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/csgo_pipeline.py took 0.137 seconds
+[2021-05-14 01:16:48,566] {scheduler_job.py:182} INFO - Started process (PID=18177) to work on /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 01:16:48,567] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/csgo_pipeline.py for tasks to queue
+[2021-05-14 01:16:48,568] {logging_mixin.py:104} INFO - [2021-05-14 01:16:48,568] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 01:16:48,592] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['CS_GO_Pipeline']) retrieved from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 01:16:48,610] {logging_mixin.py:104} INFO - [2021-05-14 01:16:48,610] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-14 01:16:48,626] {logging_mixin.py:104} INFO - [2021-05-14 01:16:48,626] {dag.py:2280} INFO - Setting next_dagrun for CS_GO_Pipeline to 2021-05-14 00:00:00+00:00
+[2021-05-14 01:16:48,698] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/csgo_pipeline.py took 0.135 seconds
+[2021-05-14 01:17:19,276] {scheduler_job.py:182} INFO - Started process (PID=18204) to work on /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 01:17:19,278] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/csgo_pipeline.py for tasks to queue
+[2021-05-14 01:17:19,278] {logging_mixin.py:104} INFO - [2021-05-14 01:17:19,278] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 01:17:19,304] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['CS_GO_Pipeline']) retrieved from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 01:17:19,323] {logging_mixin.py:104} INFO - [2021-05-14 01:17:19,323] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-14 01:17:19,339] {logging_mixin.py:104} INFO - [2021-05-14 01:17:19,339] {dag.py:2280} INFO - Setting next_dagrun for CS_GO_Pipeline to 2021-05-14 00:00:00+00:00
+[2021-05-14 01:17:19,422] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/csgo_pipeline.py took 0.149 seconds
+[2021-05-14 01:17:50,173] {scheduler_job.py:182} INFO - Started process (PID=18231) to work on /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 01:17:50,175] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/csgo_pipeline.py for tasks to queue
+[2021-05-14 01:17:50,175] {logging_mixin.py:104} INFO - [2021-05-14 01:17:50,175] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 01:17:50,200] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['CS_GO_Pipeline']) retrieved from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 01:17:50,217] {logging_mixin.py:104} INFO - [2021-05-14 01:17:50,217] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-14 01:17:50,235] {logging_mixin.py:104} INFO - [2021-05-14 01:17:50,235] {dag.py:2280} INFO - Setting next_dagrun for CS_GO_Pipeline to 2021-05-14 00:00:00+00:00
+[2021-05-14 01:17:50,342] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/csgo_pipeline.py took 0.172 seconds
+[2021-05-14 01:18:21,358] {scheduler_job.py:182} INFO - Started process (PID=18258) to work on /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 01:18:21,360] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/csgo_pipeline.py for tasks to queue
+[2021-05-14 01:18:21,361] {logging_mixin.py:104} INFO - [2021-05-14 01:18:21,361] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 01:18:21,405] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['CS_GO_Pipeline']) retrieved from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 01:18:21,422] {logging_mixin.py:104} INFO - [2021-05-14 01:18:21,422] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-14 01:18:21,438] {logging_mixin.py:104} INFO - [2021-05-14 01:18:21,438] {dag.py:2280} INFO - Setting next_dagrun for CS_GO_Pipeline to 2021-05-14 00:00:00+00:00
+[2021-05-14 01:18:21,448] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/csgo_pipeline.py took 0.094 seconds
+[2021-05-14 01:18:52,041] {scheduler_job.py:182} INFO - Started process (PID=18285) to work on /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 01:18:52,042] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/csgo_pipeline.py for tasks to queue
+[2021-05-14 01:18:52,042] {logging_mixin.py:104} INFO - [2021-05-14 01:18:52,042] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 01:18:52,066] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['CS_GO_Pipeline']) retrieved from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 01:18:52,083] {logging_mixin.py:104} INFO - [2021-05-14 01:18:52,083] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-14 01:18:52,098] {logging_mixin.py:104} INFO - [2021-05-14 01:18:52,098] {dag.py:2280} INFO - Setting next_dagrun for CS_GO_Pipeline to 2021-05-14 00:00:00+00:00
+[2021-05-14 01:18:52,107] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/csgo_pipeline.py took 0.071 seconds
+[2021-05-14 01:19:23,087] {scheduler_job.py:182} INFO - Started process (PID=18312) to work on /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 01:19:23,089] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/csgo_pipeline.py for tasks to queue
+[2021-05-14 01:19:23,089] {logging_mixin.py:104} INFO - [2021-05-14 01:19:23,089] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 01:19:23,115] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['CS_GO_Pipeline']) retrieved from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 01:19:23,134] {logging_mixin.py:104} INFO - [2021-05-14 01:19:23,134] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-14 01:19:23,150] {logging_mixin.py:104} INFO - [2021-05-14 01:19:23,150] {dag.py:2280} INFO - Setting next_dagrun for CS_GO_Pipeline to 2021-05-14 00:00:00+00:00
+[2021-05-14 01:19:23,234] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/csgo_pipeline.py took 0.150 seconds
+[2021-05-14 01:19:53,870] {scheduler_job.py:182} INFO - Started process (PID=18339) to work on /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 01:19:53,871] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/csgo_pipeline.py for tasks to queue
+[2021-05-14 01:19:53,872] {logging_mixin.py:104} INFO - [2021-05-14 01:19:53,872] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 01:19:53,899] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['CS_GO_Pipeline']) retrieved from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 01:19:53,916] {logging_mixin.py:104} INFO - [2021-05-14 01:19:53,916] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-14 01:19:53,932] {logging_mixin.py:104} INFO - [2021-05-14 01:19:53,932] {dag.py:2280} INFO - Setting next_dagrun for CS_GO_Pipeline to 2021-05-14 00:00:00+00:00
+[2021-05-14 01:19:54,019] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/csgo_pipeline.py took 0.152 seconds
+[2021-05-14 01:20:24,454] {scheduler_job.py:182} INFO - Started process (PID=18366) to work on /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 01:20:24,455] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/csgo_pipeline.py for tasks to queue
+[2021-05-14 01:20:24,456] {logging_mixin.py:104} INFO - [2021-05-14 01:20:24,456] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 01:20:24,484] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['CS_GO_Pipeline']) retrieved from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 01:20:24,500] {logging_mixin.py:104} INFO - [2021-05-14 01:20:24,500] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-14 01:20:24,516] {logging_mixin.py:104} INFO - [2021-05-14 01:20:24,516] {dag.py:2280} INFO - Setting next_dagrun for CS_GO_Pipeline to 2021-05-14 00:00:00+00:00
+[2021-05-14 01:20:24,527] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/csgo_pipeline.py took 0.076 seconds
+[2021-05-14 01:20:55,309] {scheduler_job.py:182} INFO - Started process (PID=18393) to work on /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 01:20:55,310] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/csgo_pipeline.py for tasks to queue
+[2021-05-14 01:20:55,311] {logging_mixin.py:104} INFO - [2021-05-14 01:20:55,311] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 01:20:55,340] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['CS_GO_Pipeline']) retrieved from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 01:20:55,358] {logging_mixin.py:104} INFO - [2021-05-14 01:20:55,358] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-14 01:20:55,374] {logging_mixin.py:104} INFO - [2021-05-14 01:20:55,374] {dag.py:2280} INFO - Setting next_dagrun for CS_GO_Pipeline to 2021-05-14 00:00:00+00:00
+[2021-05-14 01:20:55,456] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/csgo_pipeline.py took 0.150 seconds
+[2021-05-14 01:21:26,149] {scheduler_job.py:182} INFO - Started process (PID=18420) to work on /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 01:21:26,150] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/csgo_pipeline.py for tasks to queue
+[2021-05-14 01:21:26,151] {logging_mixin.py:104} INFO - [2021-05-14 01:21:26,151] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 01:21:26,177] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['CS_GO_Pipeline']) retrieved from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 01:21:26,195] {logging_mixin.py:104} INFO - [2021-05-14 01:21:26,195] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-14 01:21:26,210] {logging_mixin.py:104} INFO - [2021-05-14 01:21:26,210] {dag.py:2280} INFO - Setting next_dagrun for CS_GO_Pipeline to 2021-05-14 00:00:00+00:00
+[2021-05-14 01:21:26,222] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/csgo_pipeline.py took 0.076 seconds
+[2021-05-14 01:21:56,572] {scheduler_job.py:182} INFO - Started process (PID=18447) to work on /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 01:21:56,573] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/csgo_pipeline.py for tasks to queue
+[2021-05-14 01:21:56,574] {logging_mixin.py:104} INFO - [2021-05-14 01:21:56,574] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 01:21:56,601] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['CS_GO_Pipeline']) retrieved from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 01:21:56,619] {logging_mixin.py:104} INFO - [2021-05-14 01:21:56,619] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-14 01:21:56,637] {logging_mixin.py:104} INFO - [2021-05-14 01:21:56,637] {dag.py:2280} INFO - Setting next_dagrun for CS_GO_Pipeline to 2021-05-14 00:00:00+00:00
+[2021-05-14 01:21:56,665] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/csgo_pipeline.py took 0.096 seconds
+[2021-05-14 01:22:26,749] {scheduler_job.py:182} INFO - Started process (PID=18474) to work on /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 01:22:26,752] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/csgo_pipeline.py for tasks to queue
+[2021-05-14 01:22:26,754] {logging_mixin.py:104} INFO - [2021-05-14 01:22:26,754] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 01:22:26,781] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['CS_GO_Pipeline']) retrieved from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 01:22:26,798] {logging_mixin.py:104} INFO - [2021-05-14 01:22:26,798] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-14 01:22:26,820] {logging_mixin.py:104} INFO - [2021-05-14 01:22:26,819] {dag.py:2280} INFO - Setting next_dagrun for CS_GO_Pipeline to 2021-05-14 00:00:00+00:00
+[2021-05-14 01:22:26,839] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/csgo_pipeline.py took 0.094 seconds
+[2021-05-14 01:22:56,904] {scheduler_job.py:182} INFO - Started process (PID=18500) to work on /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 01:22:56,905] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/csgo_pipeline.py for tasks to queue
+[2021-05-14 01:22:56,906] {logging_mixin.py:104} INFO - [2021-05-14 01:22:56,906] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 01:22:56,934] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['CS_GO_Pipeline']) retrieved from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 01:22:56,952] {logging_mixin.py:104} INFO - [2021-05-14 01:22:56,952] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-14 01:22:56,969] {logging_mixin.py:104} INFO - [2021-05-14 01:22:56,968] {dag.py:2280} INFO - Setting next_dagrun for CS_GO_Pipeline to 2021-05-14 00:00:00+00:00
+[2021-05-14 01:22:56,987] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/csgo_pipeline.py took 0.086 seconds
+[2021-05-14 01:23:27,137] {scheduler_job.py:182} INFO - Started process (PID=18527) to work on /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 01:23:27,139] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/csgo_pipeline.py for tasks to queue
+[2021-05-14 01:23:27,140] {logging_mixin.py:104} INFO - [2021-05-14 01:23:27,140] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 01:23:27,165] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['CS_GO_Pipeline']) retrieved from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 01:23:27,182] {logging_mixin.py:104} INFO - [2021-05-14 01:23:27,182] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-14 01:23:27,198] {logging_mixin.py:104} INFO - [2021-05-14 01:23:27,198] {dag.py:2280} INFO - Setting next_dagrun for CS_GO_Pipeline to 2021-05-14 00:00:00+00:00
+[2021-05-14 01:23:27,219] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/csgo_pipeline.py took 0.085 seconds
+[2021-05-14 01:23:57,289] {scheduler_job.py:182} INFO - Started process (PID=18552) to work on /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 01:23:57,290] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/csgo_pipeline.py for tasks to queue
+[2021-05-14 01:23:57,291] {logging_mixin.py:104} INFO - [2021-05-14 01:23:57,291] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 01:23:57,324] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['CS_GO_Pipeline']) retrieved from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 01:23:57,343] {logging_mixin.py:104} INFO - [2021-05-14 01:23:57,343] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-14 01:23:57,361] {logging_mixin.py:104} INFO - [2021-05-14 01:23:57,361] {dag.py:2280} INFO - Setting next_dagrun for CS_GO_Pipeline to 2021-05-14 00:00:00+00:00
+[2021-05-14 01:23:57,373] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/csgo_pipeline.py took 0.087 seconds
+[2021-05-14 01:24:27,418] {scheduler_job.py:182} INFO - Started process (PID=18574) to work on /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 01:24:27,419] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/csgo_pipeline.py for tasks to queue
+[2021-05-14 01:24:27,420] {logging_mixin.py:104} INFO - [2021-05-14 01:24:27,420] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 01:24:27,446] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['CS_GO_Pipeline']) retrieved from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 01:24:27,464] {logging_mixin.py:104} INFO - [2021-05-14 01:24:27,464] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-14 01:24:27,479] {logging_mixin.py:104} INFO - [2021-05-14 01:24:27,479] {dag.py:2280} INFO - Setting next_dagrun for CS_GO_Pipeline to 2021-05-14 00:00:00+00:00
+[2021-05-14 01:24:27,490] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/csgo_pipeline.py took 0.075 seconds
+[2021-05-14 01:24:57,747] {scheduler_job.py:182} INFO - Started process (PID=18601) to work on /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 01:24:57,748] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/csgo_pipeline.py for tasks to queue
+[2021-05-14 01:24:57,749] {logging_mixin.py:104} INFO - [2021-05-14 01:24:57,749] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 01:24:57,780] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['CS_GO_Pipeline']) retrieved from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 01:24:57,801] {logging_mixin.py:104} INFO - [2021-05-14 01:24:57,801] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-14 01:24:57,818] {logging_mixin.py:104} INFO - [2021-05-14 01:24:57,818] {dag.py:2280} INFO - Setting next_dagrun for CS_GO_Pipeline to 2021-05-14 00:00:00+00:00
+[2021-05-14 01:24:57,830] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/csgo_pipeline.py took 0.087 seconds
+[2021-05-14 01:25:28,114] {scheduler_job.py:182} INFO - Started process (PID=18628) to work on /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 01:25:28,115] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/csgo_pipeline.py for tasks to queue
+[2021-05-14 01:25:28,116] {logging_mixin.py:104} INFO - [2021-05-14 01:25:28,116] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 01:25:28,143] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['CS_GO_Pipeline']) retrieved from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 01:25:28,161] {logging_mixin.py:104} INFO - [2021-05-14 01:25:28,161] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-14 01:25:28,177] {logging_mixin.py:104} INFO - [2021-05-14 01:25:28,176] {dag.py:2280} INFO - Setting next_dagrun for CS_GO_Pipeline to 2021-05-14 00:00:00+00:00
+[2021-05-14 01:25:28,189] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/csgo_pipeline.py took 0.079 seconds
+[2021-05-14 01:25:58,356] {scheduler_job.py:182} INFO - Started process (PID=18655) to work on /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 01:25:58,357] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/csgo_pipeline.py for tasks to queue
+[2021-05-14 01:25:58,358] {logging_mixin.py:104} INFO - [2021-05-14 01:25:58,358] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 01:25:58,384] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['CS_GO_Pipeline']) retrieved from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 01:25:58,403] {logging_mixin.py:104} INFO - [2021-05-14 01:25:58,403] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-14 01:25:58,420] {logging_mixin.py:104} INFO - [2021-05-14 01:25:58,420] {dag.py:2280} INFO - Setting next_dagrun for CS_GO_Pipeline to 2021-05-14 00:00:00+00:00
+[2021-05-14 01:25:58,430] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/csgo_pipeline.py took 0.077 seconds
+[2021-05-14 01:26:29,130] {scheduler_job.py:182} INFO - Started process (PID=18688) to work on /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 01:26:29,131] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/csgo_pipeline.py for tasks to queue
+[2021-05-14 01:26:29,132] {logging_mixin.py:104} INFO - [2021-05-14 01:26:29,132] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 01:26:29,159] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['CS_GO_Pipeline']) retrieved from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 01:26:29,177] {logging_mixin.py:104} INFO - [2021-05-14 01:26:29,177] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-14 01:26:29,191] {logging_mixin.py:104} INFO - [2021-05-14 01:26:29,191] {dag.py:2280} INFO - Setting next_dagrun for CS_GO_Pipeline to 2021-05-14 00:00:00+00:00
+[2021-05-14 01:26:29,217] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/csgo_pipeline.py took 0.090 seconds
+[2021-05-14 01:26:59,420] {scheduler_job.py:182} INFO - Started process (PID=18714) to work on /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 01:26:59,421] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/csgo_pipeline.py for tasks to queue
+[2021-05-14 01:26:59,422] {logging_mixin.py:104} INFO - [2021-05-14 01:26:59,422] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 01:26:59,449] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['CS_GO_Pipeline']) retrieved from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 01:26:59,465] {logging_mixin.py:104} INFO - [2021-05-14 01:26:59,465] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-14 01:26:59,486] {logging_mixin.py:104} INFO - [2021-05-14 01:26:59,486] {dag.py:2280} INFO - Setting next_dagrun for CS_GO_Pipeline to 2021-05-14 00:00:00+00:00
+[2021-05-14 01:26:59,497] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/csgo_pipeline.py took 0.080 seconds
+[2021-05-14 01:27:29,762] {scheduler_job.py:182} INFO - Started process (PID=18743) to work on /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 01:27:29,764] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/csgo_pipeline.py for tasks to queue
+[2021-05-14 01:27:29,765] {logging_mixin.py:104} INFO - [2021-05-14 01:27:29,764] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 01:27:29,791] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['CS_GO_Pipeline']) retrieved from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 01:27:29,809] {logging_mixin.py:104} INFO - [2021-05-14 01:27:29,809] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-14 01:27:29,825] {logging_mixin.py:104} INFO - [2021-05-14 01:27:29,824] {dag.py:2280} INFO - Setting next_dagrun for CS_GO_Pipeline to 2021-05-14 00:00:00+00:00
+[2021-05-14 01:27:29,835] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/csgo_pipeline.py took 0.076 seconds
+[2021-05-14 01:28:00,227] {scheduler_job.py:182} INFO - Started process (PID=18770) to work on /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 01:28:00,229] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/csgo_pipeline.py for tasks to queue
+[2021-05-14 01:28:00,229] {logging_mixin.py:104} INFO - [2021-05-14 01:28:00,229] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 01:28:00,257] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['CS_GO_Pipeline']) retrieved from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 01:28:00,276] {logging_mixin.py:104} INFO - [2021-05-14 01:28:00,276] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-14 01:28:00,292] {logging_mixin.py:104} INFO - [2021-05-14 01:28:00,292] {dag.py:2280} INFO - Setting next_dagrun for CS_GO_Pipeline to 2021-05-14 00:00:00+00:00
+[2021-05-14 01:28:00,333] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/csgo_pipeline.py took 0.109 seconds
+[2021-05-14 01:28:30,601] {scheduler_job.py:182} INFO - Started process (PID=18797) to work on /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 01:28:30,603] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/csgo_pipeline.py for tasks to queue
+[2021-05-14 01:28:30,604] {logging_mixin.py:104} INFO - [2021-05-14 01:28:30,604] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 01:28:30,638] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['CS_GO_Pipeline']) retrieved from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 01:28:30,658] {logging_mixin.py:104} INFO - [2021-05-14 01:28:30,658] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-14 01:28:30,675] {logging_mixin.py:104} INFO - [2021-05-14 01:28:30,675] {dag.py:2280} INFO - Setting next_dagrun for CS_GO_Pipeline to 2021-05-14 00:00:00+00:00
+[2021-05-14 01:28:30,686] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/csgo_pipeline.py took 0.088 seconds
+[2021-05-14 01:29:00,784] {scheduler_job.py:182} INFO - Started process (PID=18822) to work on /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 01:29:00,786] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/csgo_pipeline.py for tasks to queue
+[2021-05-14 01:29:00,787] {logging_mixin.py:104} INFO - [2021-05-14 01:29:00,787] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 01:29:00,814] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['CS_GO_Pipeline']) retrieved from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 01:29:00,833] {logging_mixin.py:104} INFO - [2021-05-14 01:29:00,833] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-14 01:29:00,848] {logging_mixin.py:104} INFO - [2021-05-14 01:29:00,848] {dag.py:2280} INFO - Setting next_dagrun for CS_GO_Pipeline to 2021-05-14 00:00:00+00:00
+[2021-05-14 01:29:00,858] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/csgo_pipeline.py took 0.077 seconds
+[2021-05-14 01:29:31,062] {scheduler_job.py:182} INFO - Started process (PID=18849) to work on /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 01:29:31,063] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/csgo_pipeline.py for tasks to queue
+[2021-05-14 01:29:31,064] {logging_mixin.py:104} INFO - [2021-05-14 01:29:31,064] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 01:29:31,102] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['CS_GO_Pipeline']) retrieved from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 01:29:31,139] {logging_mixin.py:104} INFO - [2021-05-14 01:29:31,139] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-14 01:29:31,169] {logging_mixin.py:104} INFO - [2021-05-14 01:29:31,169] {dag.py:2280} INFO - Setting next_dagrun for CS_GO_Pipeline to 2021-05-14 00:00:00+00:00
+[2021-05-14 01:29:31,182] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/csgo_pipeline.py took 0.124 seconds
+[2021-05-14 01:30:01,337] {scheduler_job.py:182} INFO - Started process (PID=18876) to work on /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 01:30:01,338] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/csgo_pipeline.py for tasks to queue
+[2021-05-14 01:30:01,339] {logging_mixin.py:104} INFO - [2021-05-14 01:30:01,339] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 01:30:01,366] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['CS_GO_Pipeline']) retrieved from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 01:30:01,384] {logging_mixin.py:104} INFO - [2021-05-14 01:30:01,384] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-14 01:30:01,401] {logging_mixin.py:104} INFO - [2021-05-14 01:30:01,401] {dag.py:2280} INFO - Setting next_dagrun for CS_GO_Pipeline to 2021-05-14 00:00:00+00:00
+[2021-05-14 01:30:01,412] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/csgo_pipeline.py took 0.078 seconds
+[2021-05-14 01:30:31,466] {scheduler_job.py:182} INFO - Started process (PID=18903) to work on /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 01:30:31,467] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/csgo_pipeline.py for tasks to queue
+[2021-05-14 01:30:31,468] {logging_mixin.py:104} INFO - [2021-05-14 01:30:31,468] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 01:30:31,498] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['CS_GO_Pipeline']) retrieved from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 01:30:31,516] {logging_mixin.py:104} INFO - [2021-05-14 01:30:31,516] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-14 01:30:31,530] {logging_mixin.py:104} INFO - [2021-05-14 01:30:31,530] {dag.py:2280} INFO - Setting next_dagrun for CS_GO_Pipeline to 2021-05-14 00:00:00+00:00
+[2021-05-14 01:30:31,559] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/csgo_pipeline.py took 0.097 seconds
+[2021-05-14 01:31:02,220] {scheduler_job.py:182} INFO - Started process (PID=18932) to work on /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 01:31:02,222] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/csgo_pipeline.py for tasks to queue
+[2021-05-14 01:31:02,222] {logging_mixin.py:104} INFO - [2021-05-14 01:31:02,222] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 01:31:02,249] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['CS_GO_Pipeline']) retrieved from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 01:31:02,266] {logging_mixin.py:104} INFO - [2021-05-14 01:31:02,266] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-14 01:31:02,281] {logging_mixin.py:104} INFO - [2021-05-14 01:31:02,281] {dag.py:2280} INFO - Setting next_dagrun for CS_GO_Pipeline to 2021-05-14 00:00:00+00:00
+[2021-05-14 01:31:02,335] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/csgo_pipeline.py took 0.117 seconds
+[2021-05-14 01:31:32,665] {scheduler_job.py:182} INFO - Started process (PID=18959) to work on /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 01:31:32,666] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/csgo_pipeline.py for tasks to queue
+[2021-05-14 01:31:32,667] {logging_mixin.py:104} INFO - [2021-05-14 01:31:32,667] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 01:31:32,695] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['CS_GO_Pipeline']) retrieved from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 01:31:32,715] {logging_mixin.py:104} INFO - [2021-05-14 01:31:32,714] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-14 01:31:32,731] {logging_mixin.py:104} INFO - [2021-05-14 01:31:32,730] {dag.py:2280} INFO - Setting next_dagrun for CS_GO_Pipeline to 2021-05-14 00:00:00+00:00
+[2021-05-14 01:31:32,777] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/csgo_pipeline.py took 0.115 seconds
+[2021-05-14 01:32:03,135] {scheduler_job.py:182} INFO - Started process (PID=18986) to work on /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 01:32:03,136] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/csgo_pipeline.py for tasks to queue
+[2021-05-14 01:32:03,137] {logging_mixin.py:104} INFO - [2021-05-14 01:32:03,137] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 01:32:03,163] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['CS_GO_Pipeline']) retrieved from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 01:32:03,181] {logging_mixin.py:104} INFO - [2021-05-14 01:32:03,181] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-14 01:32:03,195] {logging_mixin.py:104} INFO - [2021-05-14 01:32:03,195] {dag.py:2280} INFO - Setting next_dagrun for CS_GO_Pipeline to 2021-05-14 00:00:00+00:00
+[2021-05-14 01:32:03,242] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/csgo_pipeline.py took 0.110 seconds
+[2021-05-14 01:32:33,729] {scheduler_job.py:182} INFO - Started process (PID=19013) to work on /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 01:32:33,730] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/csgo_pipeline.py for tasks to queue
+[2021-05-14 01:32:33,731] {logging_mixin.py:104} INFO - [2021-05-14 01:32:33,730] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 01:32:33,757] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['CS_GO_Pipeline']) retrieved from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 01:32:33,780] {logging_mixin.py:104} INFO - [2021-05-14 01:32:33,779] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-14 01:32:33,797] {logging_mixin.py:104} INFO - [2021-05-14 01:32:33,797] {dag.py:2280} INFO - Setting next_dagrun for CS_GO_Pipeline to 2021-05-14 00:00:00+00:00
+[2021-05-14 01:32:33,856] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/csgo_pipeline.py took 0.130 seconds
+[2021-05-14 01:33:03,942] {scheduler_job.py:182} INFO - Started process (PID=19038) to work on /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 01:33:03,949] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/csgo_pipeline.py for tasks to queue
+[2021-05-14 01:33:03,950] {logging_mixin.py:104} INFO - [2021-05-14 01:33:03,950] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 01:33:03,984] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['CS_GO_Pipeline']) retrieved from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 01:33:04,009] {logging_mixin.py:104} INFO - [2021-05-14 01:33:04,008] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-14 01:33:04,032] {logging_mixin.py:104} INFO - [2021-05-14 01:33:04,032] {dag.py:2280} INFO - Setting next_dagrun for CS_GO_Pipeline to 2021-05-14 00:00:00+00:00
+[2021-05-14 01:33:04,069] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/csgo_pipeline.py took 0.130 seconds
+[2021-05-14 01:33:34,584] {scheduler_job.py:182} INFO - Started process (PID=19066) to work on /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 01:33:34,586] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/csgo_pipeline.py for tasks to queue
+[2021-05-14 01:33:34,587] {logging_mixin.py:104} INFO - [2021-05-14 01:33:34,587] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 01:33:34,618] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['CS_GO_Pipeline']) retrieved from /opt/airflow/dags/csgo_pipeline.py
+[2021-05-14 01:33:34,644] {logging_mixin.py:104} INFO - [2021-05-14 01:33:34,644] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-14 01:33:34,665] {logging_mixin.py:104} INFO - [2021-05-14 01:33:34,665] {dag.py:2280} INFO - Setting next_dagrun for CS_GO_Pipeline to 2021-05-14 00:00:00+00:00
+[2021-05-14 01:33:34,677] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/csgo_pipeline.py took 0.097 seconds

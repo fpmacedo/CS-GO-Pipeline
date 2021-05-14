@@ -1,0 +1,166 @@
+[2021-05-13 13:57:59,728] {scheduler_job.py:182} INFO - Started process (PID=1826) to work on /opt/airflow/dags/csgo-pipeline.py
+[2021-05-13 13:57:59,730] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/csgo-pipeline.py for tasks to queue
+[2021-05-13 13:57:59,730] {logging_mixin.py:104} INFO - [2021-05-13 13:57:59,730] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/csgo-pipeline.py
+[2021-05-13 13:57:59,763] {logging_mixin.py:104} INFO - [2021-05-13 13:57:59,757] {dagbag.py:308} ERROR - Failed to import: /opt/airflow/dags/csgo-pipeline.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.6/site-packages/airflow/models/dagbag.py", line 305, in _load_modules_from_file
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 678, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/csgo-pipeline.py", line 22, in <module>
+    schedule_interval='0 * * * *'
+  File "/home/airflow/.local/lib/python3.6/site-packages/airflow/models/dag.py", line 280, in __init__
+    validate_key(dag_id)
+  File "/home/airflow/.local/lib/python3.6/site-packages/airflow/utils/helpers.py", line 46, in validate_key
+    "dots and underscores exclusively".format(k=k)
+airflow.exceptions.AirflowException: The key (CS-GO Pipeline) has to be made of alphanumeric characters, dashes, dots and underscores exclusively
+[2021-05-13 13:57:59,768] {scheduler_job.py:641} WARNING - No viable dags retrieved from /opt/airflow/dags/csgo-pipeline.py
+[2021-05-13 13:57:59,804] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/csgo-pipeline.py took 0.078 seconds
+[2021-05-13 13:58:29,927] {scheduler_job.py:182} INFO - Started process (PID=1853) to work on /opt/airflow/dags/csgo-pipeline.py
+[2021-05-13 13:58:29,928] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/csgo-pipeline.py for tasks to queue
+[2021-05-13 13:58:29,929] {logging_mixin.py:104} INFO - [2021-05-13 13:58:29,929] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/csgo-pipeline.py
+[2021-05-13 13:58:29,947] {logging_mixin.py:104} INFO - [2021-05-13 13:58:29,942] {dagbag.py:308} ERROR - Failed to import: /opt/airflow/dags/csgo-pipeline.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.6/site-packages/airflow/models/dagbag.py", line 305, in _load_modules_from_file
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 678, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/csgo-pipeline.py", line 22, in <module>
+    schedule_interval='0 * * * *'
+  File "/home/airflow/.local/lib/python3.6/site-packages/airflow/models/dag.py", line 280, in __init__
+    validate_key(dag_id)
+  File "/home/airflow/.local/lib/python3.6/site-packages/airflow/utils/helpers.py", line 46, in validate_key
+    "dots and underscores exclusively".format(k=k)
+airflow.exceptions.AirflowException: The key (CS-GO Pipeline) has to be made of alphanumeric characters, dashes, dots and underscores exclusively
+[2021-05-13 13:58:29,949] {scheduler_job.py:641} WARNING - No viable dags retrieved from /opt/airflow/dags/csgo-pipeline.py
+[2021-05-13 13:58:29,976] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/csgo-pipeline.py took 0.052 seconds
+[2021-05-13 13:59:00,102] {scheduler_job.py:182} INFO - Started process (PID=1880) to work on /opt/airflow/dags/csgo-pipeline.py
+[2021-05-13 13:59:00,103] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/csgo-pipeline.py for tasks to queue
+[2021-05-13 13:59:00,104] {logging_mixin.py:104} INFO - [2021-05-13 13:59:00,104] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/csgo-pipeline.py
+[2021-05-13 13:59:00,145] {logging_mixin.py:104} INFO - [2021-05-13 13:59:00,140] {dagbag.py:308} ERROR - Failed to import: /opt/airflow/dags/csgo-pipeline.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.6/site-packages/airflow/models/dagbag.py", line 305, in _load_modules_from_file
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 678, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/csgo-pipeline.py", line 22, in <module>
+    schedule_interval='0 * * * *'
+  File "/home/airflow/.local/lib/python3.6/site-packages/airflow/models/dag.py", line 280, in __init__
+    validate_key(dag_id)
+  File "/home/airflow/.local/lib/python3.6/site-packages/airflow/utils/helpers.py", line 46, in validate_key
+    "dots and underscores exclusively".format(k=k)
+airflow.exceptions.AirflowException: The key (CS-GO Pipeline) has to be made of alphanumeric characters, dashes, dots and underscores exclusively
+[2021-05-13 13:59:00,149] {scheduler_job.py:641} WARNING - No viable dags retrieved from /opt/airflow/dags/csgo-pipeline.py
+[2021-05-13 13:59:00,180] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/csgo-pipeline.py took 0.080 seconds
+[2021-05-13 13:59:30,366] {scheduler_job.py:182} INFO - Started process (PID=1907) to work on /opt/airflow/dags/csgo-pipeline.py
+[2021-05-13 13:59:30,368] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/csgo-pipeline.py for tasks to queue
+[2021-05-13 13:59:30,369] {logging_mixin.py:104} INFO - [2021-05-13 13:59:30,368] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/csgo-pipeline.py
+[2021-05-13 13:59:30,388] {logging_mixin.py:104} INFO - [2021-05-13 13:59:30,383] {dagbag.py:308} ERROR - Failed to import: /opt/airflow/dags/csgo-pipeline.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.6/site-packages/airflow/models/dagbag.py", line 305, in _load_modules_from_file
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 678, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/csgo-pipeline.py", line 22, in <module>
+    schedule_interval='0 * * * *'
+  File "/home/airflow/.local/lib/python3.6/site-packages/airflow/models/dag.py", line 280, in __init__
+    validate_key(dag_id)
+  File "/home/airflow/.local/lib/python3.6/site-packages/airflow/utils/helpers.py", line 46, in validate_key
+    "dots and underscores exclusively".format(k=k)
+airflow.exceptions.AirflowException: The key (CS-GO Pipeline) has to be made of alphanumeric characters, dashes, dots and underscores exclusively
+[2021-05-13 13:59:30,390] {scheduler_job.py:641} WARNING - No viable dags retrieved from /opt/airflow/dags/csgo-pipeline.py
+[2021-05-13 13:59:30,410] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/csgo-pipeline.py took 0.046 seconds
+[2021-05-13 14:00:00,554] {scheduler_job.py:182} INFO - Started process (PID=1934) to work on /opt/airflow/dags/csgo-pipeline.py
+[2021-05-13 14:00:00,555] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/csgo-pipeline.py for tasks to queue
+[2021-05-13 14:00:00,556] {logging_mixin.py:104} INFO - [2021-05-13 14:00:00,556] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/csgo-pipeline.py
+[2021-05-13 14:00:00,574] {logging_mixin.py:104} INFO - [2021-05-13 14:00:00,570] {dagbag.py:308} ERROR - Failed to import: /opt/airflow/dags/csgo-pipeline.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.6/site-packages/airflow/models/dagbag.py", line 305, in _load_modules_from_file
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 678, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/csgo-pipeline.py", line 22, in <module>
+    schedule_interval='0 * * * *'
+  File "/home/airflow/.local/lib/python3.6/site-packages/airflow/models/dag.py", line 280, in __init__
+    validate_key(dag_id)
+  File "/home/airflow/.local/lib/python3.6/site-packages/airflow/utils/helpers.py", line 46, in validate_key
+    "dots and underscores exclusively".format(k=k)
+airflow.exceptions.AirflowException: The key (CS-GO Pipeline) has to be made of alphanumeric characters, dashes, dots and underscores exclusively
+[2021-05-13 14:00:00,577] {scheduler_job.py:641} WARNING - No viable dags retrieved from /opt/airflow/dags/csgo-pipeline.py
+[2021-05-13 14:00:00,609] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/csgo-pipeline.py took 0.058 seconds
+[2021-05-13 14:00:57,391] {scheduler_job.py:182} INFO - Started process (PID=55) to work on /opt/airflow/dags/csgo-pipeline.py
+[2021-05-13 14:00:57,392] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/csgo-pipeline.py for tasks to queue
+[2021-05-13 14:00:57,393] {logging_mixin.py:104} INFO - [2021-05-13 14:00:57,393] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/csgo-pipeline.py
+[2021-05-13 14:00:57,420] {logging_mixin.py:104} INFO - [2021-05-13 14:00:57,414] {dagbag.py:308} ERROR - Failed to import: /opt/airflow/dags/csgo-pipeline.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.6/site-packages/airflow/models/dagbag.py", line 305, in _load_modules_from_file
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 678, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/csgo-pipeline.py", line 22, in <module>
+    schedule_interval='0 * * * *'
+  File "/home/airflow/.local/lib/python3.6/site-packages/airflow/models/dag.py", line 280, in __init__
+    validate_key(dag_id)
+  File "/home/airflow/.local/lib/python3.6/site-packages/airflow/utils/helpers.py", line 46, in validate_key
+    "dots and underscores exclusively".format(k=k)
+airflow.exceptions.AirflowException: The key (CS-GO Pipeline) has to be made of alphanumeric characters, dashes, dots and underscores exclusively
+[2021-05-13 14:00:57,424] {scheduler_job.py:641} WARNING - No viable dags retrieved from /opt/airflow/dags/csgo-pipeline.py
+[2021-05-13 14:00:57,498] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/csgo-pipeline.py took 0.109 seconds
+[2021-05-13 14:01:27,673] {scheduler_job.py:182} INFO - Started process (PID=81) to work on /opt/airflow/dags/csgo-pipeline.py
+[2021-05-13 14:01:27,674] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/csgo-pipeline.py for tasks to queue
+[2021-05-13 14:01:27,676] {logging_mixin.py:104} INFO - [2021-05-13 14:01:27,676] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/csgo-pipeline.py
+[2021-05-13 14:01:27,697] {logging_mixin.py:104} INFO - [2021-05-13 14:01:27,692] {dagbag.py:308} ERROR - Failed to import: /opt/airflow/dags/csgo-pipeline.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.6/site-packages/airflow/models/dagbag.py", line 305, in _load_modules_from_file
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 678, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/csgo-pipeline.py", line 22, in <module>
+    schedule_interval='0 * * * *'
+  File "/home/airflow/.local/lib/python3.6/site-packages/airflow/models/dag.py", line 280, in __init__
+    validate_key(dag_id)
+  File "/home/airflow/.local/lib/python3.6/site-packages/airflow/utils/helpers.py", line 46, in validate_key
+    "dots and underscores exclusively".format(k=k)
+airflow.exceptions.AirflowException: The key (CS-GO Pipeline) has to be made of alphanumeric characters, dashes, dots and underscores exclusively
+[2021-05-13 14:01:27,699] {scheduler_job.py:641} WARNING - No viable dags retrieved from /opt/airflow/dags/csgo-pipeline.py
+[2021-05-13 14:01:27,813] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/csgo-pipeline.py took 0.143 seconds
+[2021-05-13 14:01:58,091] {scheduler_job.py:182} INFO - Started process (PID=108) to work on /opt/airflow/dags/csgo-pipeline.py
+[2021-05-13 14:01:58,093] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/csgo-pipeline.py for tasks to queue
+[2021-05-13 14:01:58,094] {logging_mixin.py:104} INFO - [2021-05-13 14:01:58,093] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/csgo-pipeline.py
+[2021-05-13 14:01:58,094] {scheduler_job.py:641} WARNING - No viable dags retrieved from /opt/airflow/dags/csgo-pipeline.py
+[2021-05-13 14:01:58,095] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/csgo-pipeline.py took 0.007 seconds
+[2021-05-13 14:02:28,627] {scheduler_job.py:182} INFO - Started process (PID=129) to work on /opt/airflow/dags/csgo-pipeline.py
+[2021-05-13 14:02:28,628] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/csgo-pipeline.py for tasks to queue
+[2021-05-13 14:02:28,629] {logging_mixin.py:104} INFO - [2021-05-13 14:02:28,629] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/csgo-pipeline.py
+[2021-05-13 14:02:28,630] {scheduler_job.py:641} WARNING - No viable dags retrieved from /opt/airflow/dags/csgo-pipeline.py
+[2021-05-13 14:02:28,631] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/csgo-pipeline.py took 0.007 seconds
+[2021-05-13 14:02:59,081] {scheduler_job.py:182} INFO - Started process (PID=156) to work on /opt/airflow/dags/csgo-pipeline.py
+[2021-05-13 14:02:59,083] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/csgo-pipeline.py for tasks to queue
+[2021-05-13 14:02:59,084] {logging_mixin.py:104} INFO - [2021-05-13 14:02:59,084] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/csgo-pipeline.py
+[2021-05-13 14:02:59,085] {scheduler_job.py:641} WARNING - No viable dags retrieved from /opt/airflow/dags/csgo-pipeline.py
+[2021-05-13 14:02:59,085] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/csgo-pipeline.py took 0.007 seconds
+[2021-05-13 14:03:29,631] {scheduler_job.py:182} INFO - Started process (PID=177) to work on /opt/airflow/dags/csgo-pipeline.py
+[2021-05-13 14:03:29,633] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/csgo-pipeline.py for tasks to queue
+[2021-05-13 14:03:29,634] {logging_mixin.py:104} INFO - [2021-05-13 14:03:29,634] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/csgo-pipeline.py
+[2021-05-13 14:03:29,635] {scheduler_job.py:641} WARNING - No viable dags retrieved from /opt/airflow/dags/csgo-pipeline.py
+[2021-05-13 14:03:29,636] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/csgo-pipeline.py took 0.007 seconds
+[2021-05-13 14:03:59,869] {scheduler_job.py:182} INFO - Started process (PID=200) to work on /opt/airflow/dags/csgo-pipeline.py
+[2021-05-13 14:03:59,871] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/csgo-pipeline.py for tasks to queue
+[2021-05-13 14:03:59,872] {logging_mixin.py:104} INFO - [2021-05-13 14:03:59,872] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/csgo-pipeline.py
+[2021-05-13 14:03:59,873] {scheduler_job.py:641} WARNING - No viable dags retrieved from /opt/airflow/dags/csgo-pipeline.py
+[2021-05-13 14:03:59,874] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/csgo-pipeline.py took 0.007 seconds
+[2021-05-13 14:04:30,035] {scheduler_job.py:182} INFO - Started process (PID=225) to work on /opt/airflow/dags/csgo-pipeline.py
+[2021-05-13 14:04:30,036] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/csgo-pipeline.py for tasks to queue
+[2021-05-13 14:04:30,037] {logging_mixin.py:104} INFO - [2021-05-13 14:04:30,037] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/csgo-pipeline.py
+[2021-05-13 14:04:30,038] {scheduler_job.py:641} WARNING - No viable dags retrieved from /opt/airflow/dags/csgo-pipeline.py
+[2021-05-13 14:04:30,038] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/csgo-pipeline.py took 0.007 seconds
+[2021-05-13 14:05:00,511] {scheduler_job.py:182} INFO - Started process (PID=253) to work on /opt/airflow/dags/csgo-pipeline.py
+[2021-05-13 14:05:00,513] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/csgo-pipeline.py for tasks to queue
+[2021-05-13 14:05:00,514] {logging_mixin.py:104} INFO - [2021-05-13 14:05:00,513] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/csgo-pipeline.py
+[2021-05-13 14:05:00,515] {scheduler_job.py:641} WARNING - No viable dags retrieved from /opt/airflow/dags/csgo-pipeline.py
+[2021-05-13 14:05:00,515] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/csgo-pipeline.py took 0.007 seconds
+[2021-05-13 14:05:30,763] {scheduler_job.py:182} INFO - Started process (PID=280) to work on /opt/airflow/dags/csgo-pipeline.py
+[2021-05-13 14:05:30,764] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/csgo-pipeline.py for tasks to queue
+[2021-05-13 14:05:30,765] {logging_mixin.py:104} INFO - [2021-05-13 14:05:30,765] {dagbag.py:451} INFO - Filling up the DagBag from /opt/airflow/dags/csgo-pipeline.py
+[2021-05-13 14:05:30,766] {scheduler_job.py:641} WARNING - No viable dags retrieved from /opt/airflow/dags/csgo-pipeline.py
+[2021-05-13 14:05:30,767] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/csgo-pipeline.py took 0.007 seconds

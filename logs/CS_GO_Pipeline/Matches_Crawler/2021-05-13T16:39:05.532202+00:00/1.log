@@ -1,0 +1,27 @@
+[2021-05-13 16:39:07,498] {taskinstance.py:877} INFO - Dependencies all met for <TaskInstance: CS_GO_Pipeline.Matches_Crawler 2021-05-13T16:39:05.532202+00:00 [queued]>
+[2021-05-13 16:39:07,510] {taskinstance.py:877} INFO - Dependencies all met for <TaskInstance: CS_GO_Pipeline.Matches_Crawler 2021-05-13T16:39:05.532202+00:00 [queued]>
+[2021-05-13 16:39:07,510] {taskinstance.py:1068} INFO - 
+--------------------------------------------------------------------------------
+[2021-05-13 16:39:07,511] {taskinstance.py:1069} INFO - Starting attempt 1 of 4
+[2021-05-13 16:39:07,511] {taskinstance.py:1070} INFO - 
+--------------------------------------------------------------------------------
+[2021-05-13 16:39:07,524] {taskinstance.py:1089} INFO - Executing <Task(BashOperator): Matches_Crawler> on 2021-05-13T16:39:05.532202+00:00
+[2021-05-13 16:39:07,527] {standard_task_runner.py:52} INFO - Started process 53 to run task
+[2021-05-13 16:39:07,530] {standard_task_runner.py:76} INFO - Running: ['airflow', 'tasks', 'run', 'CS_GO_Pipeline', 'Matches_Crawler', '2021-05-13T16:39:05.532202+00:00', '--job-id', '24', '--pool', 'default_pool', '--raw', '--subdir', 'DAGS_FOLDER/csgo_pipeline.py', '--cfg-path', '/tmp/tmpds0tqnxq', '--error-file', '/tmp/tmpxsw_0a8s']
+[2021-05-13 16:39:07,531] {standard_task_runner.py:77} INFO - Job 24: Subtask Matches_Crawler
+[2021-05-13 16:39:07,568] {logging_mixin.py:104} INFO - Running <TaskInstance: CS_GO_Pipeline.Matches_Crawler 2021-05-13T16:39:05.532202+00:00 [running]> on host 50335de6f4cb
+[2021-05-13 16:39:07,600] {taskinstance.py:1283} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=Filipe
+AIRFLOW_CTX_DAG_ID=CS_GO_Pipeline
+AIRFLOW_CTX_TASK_ID=Matches_Crawler
+AIRFLOW_CTX_EXECUTION_DATE=2021-05-13T16:39:05.532202+00:00
+AIRFLOW_CTX_DAG_RUN_ID=manual__2021-05-13T16:39:05.532202+00:00
+[2021-05-13 16:39:07,601] {bash.py:135} INFO - Tmp dir root location: 
+ /tmp
+[2021-05-13 16:39:07,602] {bash.py:158} INFO - Running command: cd /opt/airflow/scrapers && ls
+[2021-05-13 16:39:07,607] {bash.py:169} INFO - Output:
+[2021-05-13 16:39:07,612] {bash.py:173} INFO - __pycache__
+[2021-05-13 16:39:07,612] {bash.py:177} INFO - Command exited with return code 0
+[2021-05-13 16:39:07,640] {taskinstance.py:1192} INFO - Marking task as SUCCESS. dag_id=CS_GO_Pipeline, task_id=Matches_Crawler, execution_date=20210513T163905, start_date=20210513T163907, end_date=20210513T163907
+[2021-05-13 16:39:07,662] {taskinstance.py:1246} INFO - 0 downstream tasks scheduled from follow-on schedule check
+[2021-05-13 16:39:07,704] {local_task_job.py:146} INFO - Task exited with return code 0
