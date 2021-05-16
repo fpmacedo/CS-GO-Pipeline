@@ -22,7 +22,7 @@ class QuotesSpider(scrapy.Spider):
                     }
             
             yield scrapy.Request(url='https://www.hltv.org'+links[i], callback=self.parse_team, meta=meta,)
-            time.sleep(1)
+            time.sleep(1.1)
 
         next_page = response.xpath('//a[@class="pagination-next"]/@href').extract()
 
