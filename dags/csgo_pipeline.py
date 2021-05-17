@@ -5,8 +5,11 @@ from os import path
 from airflow import DAG 
 from airflow.operators.bash import BashOperator
 from airflow.operators.dummy_operator import DummyOperator
+from operators.local_to_s3 import LocalToS3Operator
 from airflow.utils.dates import days_ago
-#from operators.data_quality import DataQualityOperator
+from airflow.contrib.operators.emr_add_steps_operator import EmrAddStepsOperator
+from airflow.contrib.operators.emr_create_job_flow_operator import EmrCreateJobFlowOperator
+from airflow.contrib.sensors.emr_step_sensor import EmrStepSensor
 from airflow.models import Variable
 
 PROJECT_PATH = path.abspath(path.join(path.dirname(__file__), '../..'))
@@ -20,6 +23,7 @@ default_args = {
     'catchup': False,
     'email_on_retry': False
 }
+
 
 dag = DAG('CS_GO_Pipeline',
           default_args=default_args,
@@ -39,5 +43,37 @@ match_players_scraper = BashOperator(task_id='Matches_Players_Scraping',
                                     dag=dag
                                     )
 
+results_to_s3_operator = LocalToS3Operator( task_id='Results_to_S3',
+                                            filepath="{}/airflow/scrapers".format(PROJECT_PATH),
+                                            filename="match_results.json",
+                                            key="match_results",
+                                            aws_credentials_id="aws_credentials",
+                                            bucket_name="fpmacedo",
+                                            dag=dag
+                                          )
+
+players_to_s3_operator = LocalToS3Operator( task_id='Players_to_S3',
+                                            filepath="{}/airflow/scrapers".format(PROJECT_PATH),
+                                            filename="match_players.json",
+                                            key="match_players",
+                                            aws_credentials_id="aws_credentials",
+                                            bucket_name="fpmacedo",
+                                            dag=dag
+                                          )
+
+
+"""
+cluster_creator = EmrCreateJobFlowOperator(
+                                            task_id='Create_EMR_Cluster',
+                                            job_flow_overrides=JOB_FLOW_OVERRIDES,
+                                            dag=dag,
+                                            aws_conn_id='aws_credentials',
+                                            emr_conn_id='emr_default',
+                                          )
+"""
+
 start_operator>>match_result_scraper
 start_operator>>match_players_scraper
+
+match_result_scraper>>results_to_s3_operator
+match_players_scraper>>players_to_s3_operator
