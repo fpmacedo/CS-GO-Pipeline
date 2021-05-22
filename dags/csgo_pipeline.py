@@ -43,6 +43,11 @@ match_players_scraper = BashOperator(task_id='Matches_Players_Scraping',
                                     dag=dag
                                     )
 
+stats_players_scraper = BashOperator(task_id='Stats_Players_Scraping',
+                                    bash_command='cd {}/airflow/scrapers && scrapy runspider players_stats.py -o players_stats.json'.format(PROJECT_PATH),
+                                    dag=dag
+                                    )
+
 results_to_s3_operator = LocalToS3Operator( task_id='Results_to_S3',
                                             filepath="{}/airflow/scrapers".format(PROJECT_PATH),
                                             filename="match_results.json",
@@ -61,6 +66,15 @@ players_to_s3_operator = LocalToS3Operator( task_id='Players_to_S3',
                                             dag=dag
                                           )
 
+stats_to_s3_operator = LocalToS3Operator( task_id='Stats_to_S3',
+                                            filepath="{}/airflow/scrapers".format(PROJECT_PATH),
+                                            filename="players_stats.json",
+                                            key="players_stats",
+                                            aws_credentials_id="aws_credentials",
+                                            bucket_name="fpmacedo",
+                                            dag=dag
+                                          )
+
 
 """
 cluster_creator = EmrCreateJobFlowOperator(
@@ -74,6 +88,9 @@ cluster_creator = EmrCreateJobFlowOperator(
 
 start_operator>>match_result_scraper
 start_operator>>match_players_scraper
+start_operator>>stats_players_scraper
+
 
 match_result_scraper>>results_to_s3_operator
 match_players_scraper>>players_to_s3_operator
+stats_players_scraper>>stats_to_s3_operator
