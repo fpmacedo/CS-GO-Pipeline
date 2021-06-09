@@ -74,7 +74,7 @@ class QuotesSpider(scrapy.Spider):
         kills = response.xpath('//td[@class="st-kills"]/text()').extract()
         hs = response.xpath('//td[@class="st-kills"]/span/text()').extract()
         assists = response.xpath('//td[@class="st-assists"]/text()').extract()
-        flash_assists = response.xpath('//td[@class="st-kills"]/span/text()').extract()
+        flash_assists = response.xpath('//td[@class="st-assists"]/span/text()').extract()
         deaths = response.xpath('//td[@class="st-deaths"]/text()').extract()
         kdratio = response.xpath('//td[@class="st-kdratio"]/text()').extract()
         adr = response.xpath('//td[@class="st-adr"]/text()').extract()
