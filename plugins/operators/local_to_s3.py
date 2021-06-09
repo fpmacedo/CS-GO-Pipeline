@@ -3,6 +3,7 @@ from airflow.hooks.S3_hook import S3Hook
 from airflow.models import BaseOperator
 from airflow.utils.decorators import apply_defaults
 
+
 class LocalToS3Operator(BaseOperator):
 
     ui_color = '#FF9933'

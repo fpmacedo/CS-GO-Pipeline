@@ -53,7 +53,7 @@ def run_job_flow(
             Instances={
                 'MasterInstanceType': 'm5.xlarge',
                 'SlaveInstanceType': 'm5.xlarge',
-                'InstanceCount': 3,
+                'InstanceCount': 8,
                 'KeepJobFlowAliveWhenNoSteps': keep_alive,
                 'EmrManagedMasterSecurityGroup': security_groups['manager'].id,
                 'EmrManagedSlaveSecurityGroup': security_groups['worker'].id,
@@ -70,8 +70,8 @@ def run_job_flow(
             Applications=[{
                 'Name': app
             } for app in applications],
-            JobFlowRole='EMR_EC2_DefaultRole',
-            ServiceRole='EMR_DefaultRole',
+            JobFlowRole= job_flow_role.name, #'EMR_EC2_DefaultRole',
+            ServiceRole= service_role.name, #'EMR_DefaultRole',
             EbsRootVolumeSize=10,
             VisibleToAllUsers=True
         )
