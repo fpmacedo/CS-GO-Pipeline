@@ -103,7 +103,7 @@ And below is an example of what a single players_stats line, looks like.
 
 Using the extracted datasets, we'll need to create a star schema optimized for analytics. This includes the following tables.
 
-![](img/schema.png)
+![](img/schema.PNG)
 
 
 ## 5. ETL Pipeline
@@ -112,12 +112,12 @@ Using the extracted datasets, we'll need to create a star schema optimized for a
 
 2. In airflow Connections you need to create the connections bellow with your AWS keys:
 
-![](img/conn.png)
+![](img/conn.PNG)
 
 3. In the airflow variables you need to create the variables bellow with your AWS acess key, secret and region:
 
-![](img/vars.png)
+![](img/vars.PNG)
 
 4. Open http://localhost:8080/ and execute the dag.
 
-![](img/dag.png)
+![](img/dag.PNG)
