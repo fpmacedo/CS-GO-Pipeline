@@ -4,7 +4,7 @@
 
 ## 1. Project Description
 
-One of the most famous games in my generation is Counter Strike and my favorite to play when I am trying to chill in my leasure time. In the past weeks watching professional matches I was thinking: What are the most important skills to a professional player or team ? What are the difference between the winners and the loosers ? With this thought in my mind I searched about Counter Strike data and I found the website htlv.org that have data about 96000 professional matches.   
+One of the most famous games in my generation is Counter Strike and my favorite to play when I am trying to chill in my leasure time. In the past weeks watching professional matches I was thinking: What are the most important skills to a professional player or team ? What are the difference between the winners and the losers ? With this thought in my mind I searched about Counter Strike data and I found the website htlv.org that have data about 96000 professional matches.   
 
 As a data engineer, I tried to build an ETL pipeline that extracts their data from the website save in S3 in JSON format, processes them using Spark, and loads the data back into S3 as parquet files. This will allow me to do an analytic job to continue finding insights in the estracted data.
 
@@ -103,7 +103,7 @@ And below is an example of what a single players_stats line, looks like.
 
 Using the extracted datasets, we'll need to create a star schema optimized for analytics. This includes the following tables.
 
-![](img/schema.png)
+![](img/schema.PNG)
 
 
 ## 5. ETL Pipeline
@@ -112,12 +112,12 @@ Using the extracted datasets, we'll need to create a star schema optimized for a
 
 2. In airflow Connections you need to create the connections bellow with your AWS keys:
 
-![](img/conn.png)
+![](img/conn.PNG)
 
 3. In the airflow variables you need to create the variables bellow with your AWS acess key, secret and region:
 
-![](img/vars.png)
+![](img/vars.PNG)
 
 4. Open http://localhost:8080/ and execute the dag.
 
-![](img/dag.png)
+![](img/dag.PNG)
