@@ -4,7 +4,7 @@
 
 ## 1. Project Description
 
-One of the most famous games in my generation is Counter Strike and my favorite to play when I am trying to chill in my leasure time. In the past weeks watching professional matches I was thinking: What are the most important skills to a professional player or team ? What are the difference between the winners and the loosers ? With this thought in my mind I searched about Counter Strike data and I found the website htlv.org that have data about 96000 professional matches.   
+One of the most famous games in my generation is Counter Strike and my favorite to play when I am trying to chill in my leasure time. In the past weeks watching professional matches I was thinking: What are the most important skills to a professional player or team ? What are the difference between the winners and the losers ? With this thought in my mind I searched about Counter Strike data and I found the website htlv.org that have data about 96000 professional matches.   
 
 As a data engineer, I tried to build an ETL pipeline that extracts their data from the website save in S3 in JSON format, processes them using Spark, and loads the data back into S3 as parquet files. This will allow me to do an analytic job to continue finding insights in the estracted data.
 
